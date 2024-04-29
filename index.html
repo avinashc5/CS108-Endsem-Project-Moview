@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			Moview
+		</title>
+		<link rel="icon" type="image/x-icon" href="assets/favicon.png">
+		<link rel="stylesheet" href="styles/styles.css">
+		<!--Roboto-->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+		<!--Reddit Mono-->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Reddit+Mono:wght@200..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+		<!--Sen-->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<div class="nav-bar">
+			<div class="logo">
+				<a href="index.html" class="logo-link">MOVIEW</a>
+			</div>
+			<div class="options">
+				<div class="genre-list">
+					Genre
+					<div class="genre-items">
+						<a href="#action">Action</a>
+						<a href="#animation">Animation</a>
+						<a href="#comedy">Comedy</a>
+						<a href="#drama">Drama</a>
+						<a href="#fantasy">Fantasy</a>
+						<a href="#horror">Horror</a>
+						<a href="#mystery">Mystery</a>
+						<a href="#romance">Romance</a>
+						<a href="#scifi">Sci-Fi</a>
+						<a href="#thriller">Thriller</a>
+					</div>
+				</div>
+				<div class="trending">
+					<a href="#trending" class="trending-anchor">Trending</a>
+				</div>
+			</div>
+			<div class="all-about-search">
+				<div class="search-bar">
+					<img src="assets/search_icon.png" class="search-icon" id="search-icon">
+					<label for="search-bar"><input type="text" id="search-bar" autocomplete="off"></label>
+				</div>
+				<ul id="search-results">
+					
+				</ul>
+			</div>
+			
+			<div class="suggestions">
+				<a href="suggestions.html">Suggestions ?</a>
+			</div>
+			<div class="login-options-div" id="login-options-div">
+				<div class="login-options" id="login-options">
+					<a href="signin.html" class="signin">Sign in</a>
+				</div>
+				<!-- <div class="profile-div" id="profile">
+					<img src="profile.jpg" alt="" class="profile">
+					<div class="profile-options" id="profile-options">
+						<a id="username">Username</a>
+						<a id="email">Email</a>
+						<a id="signout">Sign out</a>
+					</div>
+				</div> -->
+			</div>
+			
+		</div>
+
+		<div class="empty-space">
+
+		</div>
+		<div class="movie-list" id="trending">
+			<div class="title">
+				<a>
+					Trending <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies0"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="timeless">
+			<div class="title">
+				<a>
+					Timeless Cinematic Masterpieces <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies1"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="action">
+			<div class="title">
+				<a>
+					Action <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies2"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="animation">
+			<div class="title">
+				<a>
+					Animation <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies3"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="comedy">
+			<div class="title">
+				<a>
+					Comedy <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies4"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="drama">
+			<div class="title">
+				<a>
+					Drama <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies5"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="fantasy">
+			<div class="title">
+				<a>
+					Fantasy <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies6"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="horror">
+			<div class="title">
+				<a>
+					Horror <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies7"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="mystery">
+			<div class="title">
+				<a>
+					Mystery <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies8"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="romance">
+			<div class="title">
+				<a>
+					Romance <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies9"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="sci-fi">
+			<div class="title">
+				<a>
+					Sci-Fi <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies10"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<div class="movie-list" id="thriller">
+			<div class="title">
+				<a>
+					Thriller <img src="assets/right_arrow.png" class="right_arrow">
+				</a>
+			</div>
+			<div class="scroll-buttons-container">
+				<div class="left-button">
+					<
+				</div>
+				<div class="movies" id="movies11"></div>
+				<div class="right-button">
+					>
+				</div>
+			</div>
+		</div>
+		<script src="scripts/index.js"></script>
+	</body>
+</html>
+				

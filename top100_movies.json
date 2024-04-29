@@ -1,0 +1,3078 @@
+[
+    {
+        "Movie Name": "The Shawshank Redemption",
+        "Year": "1994",
+        "Ad Cat": "A",
+        "Duration": "2h 22m",
+        "Rating": "9.3",
+        "Cast": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "Directors": [
+            "Frank Darabont"
+        ],
+        "Writers": [
+            "Stephen King",
+            "Frank Darabont"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/The_Shawshank_Redemption/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3877612057/1434659607842-pgv4ql-1616202333253.mp4?Expires=1714336406&Signature=TdzkzAlpvzsCcdfXrwSiBkXg0vQs2Bf5eWvia0geIi1LnmFgoeVr3SplAGfsfI0MPlOmcHX67Af~qjJSMpaCfgYsxZLyRwPaZszttRYsNunTLMHmkRms8dvl~WSJ8wgCKhndp-95T0FUGWMUeN0ywNhyCLzZt2hcTGVBCjR~k7pr5TgF5CkyvNy7B2xVkbl5LVs6VRRb9XNQu1eiCUgPpjnf-eQtgNjVGqJ~mWnROcjvn2lmSLpZV3IVTdUKa8QVEpGLwXT5QXxREsTEsiI7wHqXAmGomZW1M8kuTaOrsWYVJLonNZr9b939ijZURuAzTEVwPNgdqVJxNFD5mquMLQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Godfather",
+        "Year": "1972",
+        "Ad Cat": "A",
+        "Duration": "2h 55m",
+        "Rating": "9.2",
+        "Cast": [
+            "Marlon Brando",
+            "Al Pacino",
+            "James Caan"
+        ],
+        "Directors": [
+            "Francis Ford Coppola"
+        ],
+        "Writers": [
+            "Mario Puzo",
+            "Francis Ford Coppola"
+        ],
+        "Storyline": "The Godfather \"Don\" Vito Corleone is the head of the Corleone mafia family in New York. He is at the event of his daughter's wedding. Michael, Vito's youngest son and a decorated WWII Marine is also present at the wedding. Michael seems to be uninterested in being a part of the family business. Vito is a powerful man, and is kind to all those who give him respect but is ruthless against those who do not. But when a powerful and treacherous rival wants to sell drugs and needs the Don's influence for the same, Vito refuses to do it. What follows is a clash between Vito's fading old values and the new ways which may cause Michael to do the thing he was most reluctant in doing and wage a mob war against all the other mafia families which could tear the Corleone family apart. \u2014srijanarora-152-448595",
+        "Genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Languages": [
+            "English",
+            "Italian",
+            "Latin"
+        ],
+        "Image Location": "images/The_Godfather/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1348706585/1434659607842-pgv4ql-1616202346191.mp4?Expires=1714336582&Signature=JYK4ewh97G4sXO5zqkcWuELXNLbucWknDNyfNmdD-msVil7D6g1qTvVZ8yWncpad4fM7quwepv7Au-5dQs3MFqZ-SKEr2vTyDgILY024zCj5T2FAAtjiBitNAIR0iTfhvA3VCxFLae9uKHYMtMeeYhZDG1jSKNPcRRAhtiyXLOTBQqljxcHWcszit461ArTg7HSamUfJrhWLo0BSmLfPzc~HgcnUlqrWRYgJC7NQPUZLKaXLVdVtLp4j64f~SrtQXxwBXM8pl1a-jxW7FHZUaoBl4PcZWpI6xeNEGWk2Y50FUmI0Nt-b2Zr-Uwp~mP4hYiaT0BQK9xdLKdPuBNUSnA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Dark Knight",
+        "Year": "2008",
+        "Ad Cat": "UA",
+        "Duration": "2h 32m",
+        "Rating": "9.0",
+        "Cast": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Aaron Eckhart"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan",
+            "David S. Goyer"
+        ],
+        "Storyline": "Set within a year after the events of Batman Begins (2005), Batman, Lieutenant James Gordon, and new District Attorney Harvey Dent successfully begin to round up the criminals that plague Gotham City, until a mysterious and sadistic criminal mastermind known only as \"The Joker\" appears in Gotham, creating a new wave of chaos. Batman's struggle against The Joker becomes deeply personal, forcing him to \"confront everything he believes\" and improve his technology to stop him. A love triangle develops between Bruce Wayne, Dent, and Rachel Dawes. \u2014Leon Lombardi",
+        "Genre": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Languages": [
+            "English",
+            "Mandarin"
+        ],
+        "Image Location": "images/The_Dark_Knight/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi324468761/1434659607842-pgv4ql-1563712918369.mp4?Expires=1714337352&Signature=WUv286pIZjbsH9pqpVqku~kSGle3CrnZSwbUcp-QLbHJ8ne6wRrTczlIxK56x--WzKyAgpvkQPmPR04JILBSzNYIn7HbJPLyiePJEbl2H1cTU11Dv84dfa9IE2b4E34VAliQtEEnOKUTLmKP6sYM7CBDS8YrUVwVrJFfT-rnIKaqqTvexhm6NNTf-J1lNGmbGsl9hSdmoOOVvK3GdB3S0r1pe1rkMeUb1HXfXvplZEjAza9Uu23zZQFL6BWTU1QCjXIsM25asSs0UzKfVTaKYpoaeXBJyBhzk1wFIUodVPDlNWxbxSt91ko3Mu881jEMIzlR8DQYP-yabjW9G9VLyQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Schindler's List",
+        "Year": "1993",
+        "Ad Cat": "A",
+        "Duration": "3h 15m",
+        "Rating": "9.0",
+        "Cast": [
+            "Liam Neeson",
+            "Ralph Fiennes",
+            "Ben Kingsley"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Thomas Keneally",
+            "Steven Zaillian"
+        ],
+        "Storyline": "Oskar Schindler is a vain and greedy German businessman who becomes an unlikely humanitarian amid the barbaric German Nazi reign when he feels compelled to turn his factory into a refuge for Jews. Based on the true story of Oskar Schindler who managed to save about 1100 Jews from being gassed at the Auschwitz concentration camp, it is a testament to the good in all of us. \u2014Harald Mayr <marvin@bike.augusta.de>",
+        "Genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "Languages": [
+            "English",
+            "Hebrew",
+            "German",
+            "Polish",
+            "Latin"
+        ],
+        "Image Location": "images/Schindlers_List/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1158527769/1434659607842-pgv4ql-1564710232825.mp4?Expires=1714337364&Signature=shMiluUvYjarvi5ew9Qa98YwgiD9uUL8Uu~eU51bqzxSfzIFIsEDPIr4ysNbgsDWZaqsMXAM0ebv1HT77gLy~8-3YjugV24mTw9JyMg0kg0gNTfBWzWB7sefwT9EfO58NQsQIDqRXbdXQ1mlWkLbn116oEaG9qZtTWRl9KxKA63YCUhjKO7aXw0~RjwHuqbPsLLt3wPqxSSkEgl7SxTYNF6bJpUtI91Mq~YAJU7Jm9OtiE4-exnKbUHeBhnTX4cx9PVRWz4nKdD0p81r1MBPP9OYTgr9kANgKfJgUOOrnopFPT8HxFrlDXdfyGlKRsLmMdsPMjbj~jw3V4eiUWWsAg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "12th Fail",
+        "Year": "2023",
+        "Ad Cat": null,
+        "Duration": "2h 27m",
+        "Rating": "9.0",
+        "Cast": [
+            "Vikrant Massey",
+            "Medha Shankr",
+            "Anant Joshi"
+        ],
+        "Directors": [
+            "Vidhu Vinod Chopra"
+        ],
+        "Writers": [
+            "Vidhu Vinod Chopra",
+            "Jaskunwar Kohli",
+            "Anurag Pathak"
+        ],
+        "Storyline": "Manoj Kumar Sharma belongs to Chambal village where cheating in exam is a common thing. He is appearing for his 12th standard exams and eyeing a peon's job. But a strict police officer DSP Dushyant Singh arrives during the exams and stops the cheating process, Manoj is unable to pass the examinations and starts to ride a passenger vehicle with brother Kamlesh. They both land in trouble with goons of a politician but Dushyant Singh comes to their aid. Inspired by his honesty Manoj starts considering him an idol and wants to become like him. The following year he clears his 12th standard exams and dreams of becoming a DSP officer but his destiny has different plans which brings Manoj into the world of UPSC, one of the toughest exams in the world. \u2014alex.mjacko@gmail.com",
+        "Genre": [
+            "Biography",
+            "Drama"
+        ],
+        "Languages": [
+            "Hindi",
+            "Malayalam",
+            "Tamil",
+            "Telugu",
+            "Kannada"
+        ],
+        "Image Location": "images/12th_Fail/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1088210713/1434659607842-pgv4ql-1696407974003.mp4?Expires=1714337377&Signature=KKg37uN1IzehuLhOT9vLtLih1zFt1-E4ZO0SejV1rGu6-jD65pUcfMjE-H7gon4N73sHqwymL4iEl9vGCVipuBiMTZhQAQjyMWo-DWtrci9O6su4pBD2TYSyf0LZ3xBPZgdfMsF2-KIFHjBmaPstz7ensAdVjn9-nPLYaY8i0Sqq8uKsLstwGKAaG-pREA4dVV0gPx~j-4dvgFH8MWdo4SbB-7cpM8iPFPvyR5N8Subsje~jMPqk7OQ6xkFo4dun9AOT4vOgRydtUE2fhc9v3Nj0tXbQW7iBMgoTnLv9rfhutr9baWSzmz7xOID~SpHD8U2EFCh1sMXWM~OhyPlSoA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Godfather: Part II",
+        "Year": "1974",
+        "Ad Cat": "A",
+        "Duration": "3h 22m",
+        "Rating": "9.0",
+        "Cast": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Robert Duvall"
+        ],
+        "Directors": [
+            "Francis Ford Coppola"
+        ],
+        "Writers": [
+            "Francis Ford Coppola",
+            "Mario Puzo"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Italian",
+            "Spanish",
+            "Latin",
+            "Sicilian"
+        ],
+        "Image Location": "images/The_Godfather_Part_II/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi696162841/1434659607842-pgv4ql-1564159556047.mp4?Expires=1714337390&Signature=mSgQYzBQp2eq7yAkxC3qnWCC6~CJiSkZTmodLfth8hzu~zB8Z~u2q9sayNDgnj-RCX-q98~zzPKlofEjSQe2WSlfnYGvNVlSgZLFH-XoIroUaXVPmq4SyTy3s19etmdr9sPdwz4gm7LtajFR2MKu7SQsxTffXPNLNlwURN-dXsGCkTXJ60d7cKHE999yeNcHW5ExQ3e4C7NNovH7QhyAL9J3oALOHdBjIvlIxNCI4L5b6r1s0FKJlz7xpVfg8Io3iiO1cwgU9dRvf5XuXYDMTNJF5P9tcJh19pGWgyEPg1lpJ2JMLQ0iC3wojDzPk6D4CqI6EJsNTGazOhusw2r-oA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Lord of the Rings: The Return of the King",
+        "Year": "2003",
+        "Ad Cat": "U",
+        "Duration": "3h 21m",
+        "Rating": "9.0",
+        "Cast": [
+            "Elijah Wood",
+            "Viggo Mortensen",
+            "Ian McKellen"
+        ],
+        "Directors": [
+            "Peter Jackson"
+        ],
+        "Writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh",
+            "Philippa Boyens"
+        ],
+        "Storyline": "The final confrontation between the forces of good and evil fighting for control of the future of Middle-earth. Frodo and Sam reach Mordor in their quest to destroy the One Ring, while Aragorn leads the forces of good against Sauron's evil army at the stone city of Minas Tirith. \u2014Jwelch5742",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "Languages": [
+            "English",
+            "Quenya",
+            "Old English",
+            "Sindarin"
+        ],
+        "Image Location": "images/The_Lord_of_the_Rings_The_Return_of_the_King/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi718127897/1434659607842-pgv4ql-1640007041064.mp4?Expires=1714337424&Signature=oMunjy3cLVMnj7HxggeJKDrXp52~8BWIEKGNczSi8E2hV0cxM1uLx5glRLR4~zo37a-Vb8hdY6-rT~H8qAdunOoHtBpNjQpT0WnpBqO~3Dz2UJcEjk8RjSCuaNzPGNM2mYSKDg18Vzw8zDQGgC0hHy~eW7srMTJjrqACNjqUV~oBcYkXCPAa4oRldCsKVBrY4c5Iw959ULHlNDPoJ-WujMLPq1C95cG9tWGVcaXk0a-Ywl3HOcQgLKUgJlfBGp43HPWWha7Gh5vQwE~mAYF7uqWSC6ey369ks6AXiKYsX3IJFg1bicXGUs7s~NQGKauZn8Ak7YgfqqkPEW2RtpdI2A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "12 Angry Men",
+        "Year": "1957",
+        "Ad Cat": "U",
+        "Duration": "1h 36m",
+        "Rating": "9.0",
+        "Cast": [
+            "Henry Fonda",
+            "Lee J. Cobb",
+            "Martin Balsam"
+        ],
+        "Directors": [
+            "Sidney Lumet"
+        ],
+        "Writers": [
+            "Reginald Rose"
+        ],
+        "Storyline": "The defense and the prosecution have rested, and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open-and-shut case of murder soon becomes a detective story that presents a succession of clues creating doubt, and a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, AND each other. Based on the play, all of the action takes place on the stage of the jury room. \u2014pjk <PETESID@VNET.IBM.COM>",
+        "Genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/12_Angry_Men/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2924462873/1434659607842-pgv4ql-1648342297628.mp4?Expires=1714337450&Signature=hEvFiJbaDTBKwxkSSugENbX5MCM8lPuZNQcxtjxdjm-X6zkvnUeXUIZE0EKl04GC9eMmPSuR~EZmdev50EvIdiO5N1ScNxMrKjOAfqMzEmFCXPLtGrRmS-HAV8v2Ab12PGSew~8jyYz1zKbkMO8Nm-1Oc0UFElJhrFv7cTCAajnu01u2ZqE2Qg3YlbGf9RlLIGY2RfMHcvzswP4g6mXojI~wXpldDlHIfqqdvGU6a0poFMpP4qME1vlMTV8SfMDs5oD6lqoxFXRGzwqDViRTelFWPomgnqHm1JmRhpsavT1jaeEDB0N67kPHWLXufW8Bm2tsby1w0LS~o7l10N53zA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Pulp Fiction",
+        "Year": "1994",
+        "Ad Cat": "A",
+        "Duration": "2h 34m",
+        "Rating": "8.9",
+        "Cast": [
+            "John Travolta",
+            "Uma Thurman",
+            "Samuel L. Jackson"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino",
+            "Roger Avary"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Spanish",
+            "French"
+        ],
+        "Image Location": "images/Pulp_Fiction/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2620371481/1434659607842-pgv4ql-1450205469045.mp4?Expires=1714337080&Signature=YuKxHOL0yOSlftf8YIOkqbK-sLuZ6cE3l~Wm0dgGobd9fAiR9ktiz6dUUfrK2ONOr8WfZb4tIZiU6e3UD6H2MCO8nIE--R9EqyLoHLlnUmZ2iRWm7jm3N3g8PViD4ks0B1NfeIqkrcC6Q~Njg40WUcmKdBRebg~zuCL~h2GF8VcFDos6F8H9XmiUDQ2JHvXKHxTZj~WvztctmQWjzywp2RzK4NG6x-SbLsGWjrvfMHql4rRDsSWpi0ME9ZniIKkcxl6rpzxWNJO6PZPHoCwLVgnsc1mMy~Pz7ogKytnlxkNdiuh-EmZB8D54SeeMDfogGTSADitovozRU8neJwNnig__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Lord of the Rings: The Fellowship of the Ring",
+        "Year": "2001",
+        "Ad Cat": "U",
+        "Duration": "2h 58m",
+        "Rating": "8.9",
+        "Cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Orlando Bloom"
+        ],
+        "Directors": [
+            "Peter Jackson"
+        ],
+        "Writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh",
+            "Philippa Boyens"
+        ],
+        "Storyline": "An ancient Ring thought lost for centuries has been found, and through a strange twist of fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it. However, he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir, and his three Hobbit friends Merry, Pippin, and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign. \u2014Paul Twomey <toomsp@hotmail.com>",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "Languages": [
+            "English",
+            "Sindarin"
+        ],
+        "Image Location": "images/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi684573465/1434659607842-pgv4ql-1640006590845.mp4?Expires=1714336796&Signature=VuqU3yHznxhKoa36KfmONTD9VFyv9~ozWtFKOwdDW5Zsegzy2SZBbVhpwbQguu2a410He9oayi-VzO94t5tSb0~kxJegIRIKGs14lUaZPHoVEOV~YSn2WwQsU7EgLdOI3fNVRM276h9jQCBYtlbLmnka~1RWDHzCNAEMxuizdFyZs1KtpXs4stwxmSUnC5aKldbnvDjWfqjzWfgugv6-VQgdD6sqSFTSZqHzPLWcnhdeJEnytGv8-jKd1Pap8dIbRvirBLuby8FFd1h8sP9uv~yEzAJEqQzkA~JFoqZdvB4myoUTM879noxix2aF66VuOay9z42Ve7LdbkRJ64dCGQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Inception",
+        "Year": "2010",
+        "Ad Cat": "UA",
+        "Duration": "2h 28m",
+        "Rating": "8.8",
+        "Cast": [
+            "Leonardo DiCaprio",
+            "Joseph Gordon-Levitt",
+            "Elliot Page"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Christopher Nolan"
+        ],
+        "Storyline": "Dom Cobb is a skilled thief, the absolute best in the dangerous art of extraction, stealing valuable secrets from deep within the subconscious during the dream state, when the mind is at its most vulnerable. Cobb's rare ability has made him a coveted player in this treacherous new world of corporate espionage, but it has also made him an international fugitive and cost him everything he has ever loved. Now Cobb is being offered a chance at redemption. One last job could give him his life back but only if he can accomplish the impossible, inception. Instead of the perfect heist, Cobb and his team of specialists have to pull off the reverse: their task is not to steal an idea, but to plant one. If they succeed, it could be the perfect crime. But no amount of careful planning or expertise can prepare the team for the dangerous enemy that seems to predict their every move. An enemy that only Cobb could have seen coming. \u2014Warner Bros. Pictures",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Languages": [
+            "English",
+            "Japanese",
+            "French"
+        ],
+        "Image Location": "images/Inception/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2959588889/1434659607842-pgv4ql-1596404706743.mp4?Expires=1714337523&Signature=mgDETdfPZ7aqZug5mbWSK4pm-TLHcMivnDPFeJpnwXXsxxZ4OxbPzpMoeiWdCuSCq8FYTSYfkO7OgFjDYAHldUfkt3eIMTn~ueoUBVuuOY9BpO9r7q47Ohok7ZcJE8V-lTxsdCZkm8~DmrhNVsZ37vBjd3yruAXAOXA4Zty8dOLzjWoVIJw~2nRN~YgENO02smV69bOLCkEP1TBtchpYGpsvx~OaeHdwHwk1oGhhNVHlOVZeVEGAX1rSvfn0CJPz6OkG1gDmqMel91GsZ23eTxjNoO-HEud8vqwT4GQstqan0WchKR1-AOP7HHYI4LExtGAMgA~K8QHEZY~28Wc4Aw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Fight Club",
+        "Year": "1999",
+        "Ad Cat": "A",
+        "Duration": "2h 19m",
+        "Rating": "8.8",
+        "Cast": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Meat Loaf"
+        ],
+        "Directors": [
+            "David Fincher"
+        ],
+        "Writers": [
+            "Chuck Palahniuk",
+            "Jim Uhls"
+        ],
+        "Storyline": "A nameless first person narrator (Edward Norton) attends support groups in attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla (Helena Bonham Carter), another fake attendee of support groups, his life seems to become a little more bearable. However when he associates himself with Tyler (Brad Pitt) he is dragged into an underground fight club and soap making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power. \u2014Rhiannon",
+        "Genre": [
+            "Drama"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Fight_Club/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi781228825/1434659607842-pgv4ql-1563680941480.mp4?Expires=1714337550&Signature=Z5XhZqAzPL6xbWuAIb~0mWPq-STNEpYKnlemL6kR52Jqmec84Xvn~YDtEWJMRdhuNOaaa0WJfePnyRkc0-SUTNDon11sw1qqSwcvMC22HspKkNNtM6u8Q-ahk88dZawHpjJfQBSac7g6TscKaJMhwbmHev8ncA-KtCI3Kqg~QPcTmOIG8dlWwhysrcXzm~GzACRxky5S8AJHuK8c2uvX5wO6eJ2p4N5j2dnxh3skbY~BzDqfToZcbgAu9fUZFV9ZuTbkAMmU8NGfb5dwsmelfzHF6CKFuea7LYErPFE536bzvlp~qewGZiNtTAjOeEB0S7~GhwvqD0r1JnU4hq2h5A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Forrest Gump",
+        "Year": "1994",
+        "Ad Cat": "UA",
+        "Duration": "2h 22m",
+        "Rating": "8.8",
+        "Cast": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "Directors": [
+            "Robert Zemeckis"
+        ],
+        "Writers": [
+            "Winston Groom",
+            "Eric Roth"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Forrest_Gump/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3567517977/1434659607842-pgv4ql-1564505606861.mp4?Expires=1714336939&Signature=JRmzcGBcrnfvmHmyS5C2CiFhoScwtI~uyqdHB9wKOJ2AjNlsE9rLyopQpS4lehuyzTBcOdnOMs81-3hYhXb9bWP4yw4kORgo7Qn2pdH1OmCnGq0SryYBLxLO4WLfj9sXwJ5szZd-moepvou48NIIR63Omwfq-8sxcAmsO7cLbWuXvj6zLEKG7Qunp-085Ok0kWwnd~26WdKhRMp1lg0G6NmKp5QDRPR6Q5NBLN7JeuzOA2urrHzPRRiryPffJS2V-XZen6qgVbCADO46DeHmoLPHL3ZazuHBJ6YEQ5eye1H9qxHOWJcAr2VQ3Z5iK~ENkl4z07hID7Lb0fFTWlzBWA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Il Buono, Il Brutto, Il Cattivo",
+        "Year": "1966",
+        "Ad Cat": "A",
+        "Duration": "2h 41m",
+        "Rating": "8.8",
+        "Cast": [
+            "Clint Eastwood",
+            "Eli Wallach",
+            "Lee Van Cleef"
+        ],
+        "Directors": [
+            "Sergio Leone"
+        ],
+        "Writers": [
+            "Luciano Vincenzoni",
+            "Sergio Leone",
+            "Agenore Incrocci"
+        ],
+        "Storyline": "During the American Civil War, three men set off to find $200,000.00 in buried gold coins. Tuco and Blondie have known each other for some time now, having used the reward on Tuco's head as a way of earning money. They come across a dying man, Bill Carson, who tells them of a treasure in gold coins. By chance, he reveals the name of the cemetery and the name of the grave where the gold is buried. Now rivals, the two men have good reason to keep each other alive. The third man, Angel Eyes, hears of the gold stash from someone he's been hired to kill. All he knows is to look for someone named Bill Carson. The three ultimately meet in a showdown that takes place amid a major battle between Confederate and Union forces. \u2014garykmcd",
+        "Genre": [
+            "Adventure",
+            "Western"
+        ],
+        "Languages": [
+            "Italian",
+            "English"
+        ],
+        "Image Location": "images/Il_Buono,_Il_Brutto,_Il_Cattivo/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3416964889/1434659607842-pgv4ql-1568221418682.mp4?Expires=1714337609&Signature=ZIkTbczPUWXLZihCoKeiJAjqPKuY6LmBpVQZqrAIN0FRvJjT80~SH20kSiZZKZtpj4Eq9JxXSnH1Z4DgXb2dSEbFIDMWp9CMDZt9fw2LhMJobcbZySNypX8jnPcTOL14T41tCzk3EeDHwTkM65XN6UOsjpnmLRuCppEomLHL-NpGCIVtdQt66A2O~FMLxeRqYAFtiQ4EgWVC1WEvHc6iUkmyIRED9chHO8O9tOawcvLbIwhWBrjb53nC7esMCvD9H~71ItWmI9d8Vtb1nLPvogCTuRHpIFRTi~tn1tffM2helXg81Dr~3U4x4tTjfwRgW4hZSmT8SSJrJJr9Wbr-Eg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Lord of the Rings: The Two Towers",
+        "Year": "2002",
+        "Ad Cat": "UA",
+        "Duration": "2h 59m",
+        "Rating": "8.8",
+        "Cast": [
+            "Elijah Wood",
+            "Ian McKellen",
+            "Viggo Mortensen"
+        ],
+        "Directors": [
+            "Peter Jackson"
+        ],
+        "Writers": [
+            "J.R.R. Tolkien",
+            "Fran Walsh",
+            "Philippa Boyens"
+        ],
+        "Storyline": "The continuing quest of Frodo and the Fellowship to destroy the One Ring. Frodo and Sam discover they are being followed by the mysterious Gollum. Aragorn, the Elf archer Legolas, and Gimli the Dwarf encounter the besieged Rohan kingdom, whose once great King Theoden has fallen under Saruman's deadly spell. \u2014Jwelch5742",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "Languages": [
+            "English",
+            "Sindarin",
+            "Old English"
+        ],
+        "Image Location": "images/The_Lord_of_the_Rings_The_Two_Towers/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi701350681/1434659607842-pgv4ql-1640006844820.mp4?Expires=1714337210&Signature=CuFAT0faPFmn2ovD6h83goSCsB7aKZ9X8gTuUT-z8P1~Z8HPu7NTba7B9pz7wH6KK6Eo~A1hdJQE2SMSI-yHLs7JZI8ZhxWTHT7FLFoBEoathQ1kJ5xjf-n9m2V5M3FuESgW7eZ2PnnPI8OFOR2eX5oten4wtxZfAT-xVvZHnxiaoaGsJxkzPckyyAModXaGAKD-62yp-9ttVIP0vqKc1CVclpWD6CqMkp97g0CTIOlYyLX07GbwByS9UPV3kXE59o7rQ9BxNV8QkxDqSlJa9mtHDI1GLt2bI-il3~-6FfVPFWtxy1c2dUGzGQNsOu4sQiutM32DP7dWdqRJkR83wg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Dune: Part Two",
+        "Year": "2024",
+        "Ad Cat": "PG-13",
+        "Duration": "2h 46m",
+        "Rating": "8.7",
+        "Cast": [
+            "Timoth\u00e9e Chalamet",
+            "Zendaya",
+            "Rebecca Ferguson"
+        ],
+        "Directors": [
+            "Denis Villeneuve"
+        ],
+        "Writers": [
+            "Denis Villeneuve",
+            "Jon Spaihts",
+            "Frank Herbert"
+        ],
+        "Storyline": "Paul Atreides unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee. \u2014Warner Bros. Pictures",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Dune_Part_Two/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3332425241/1434659607842-pgv4ql-1709136917577.mp4?Expires=1714336797&Signature=sbz65nwhxUaqDCBb-fFKm0GuI2aKqwTk-C3ZJtPsKrrUBlRsHU7VDMhOx1Sik3rHvXnviBJ69qlvB39KPqmsfTOhkx0oZeGClYuetI-1HG7xAg3jtLQ1GpULgmcDpWNtQsOWd8~128udSUpdx~hOn149rIhE8Y-p9Gi2QHg~zGJkT8EhvpXpMjeIwDDQduh2QI9CkRRqLXJqpo4Wddp5x8u95pBDwtYHtkABtc-QTqwdlGUC4g58OQ2GdYlXBmLFXEsIC0P~SL~PG7fv692niu9sDw4PtWAwZe~svbbxxcayLMgUK2iV6i-fwwdUIjaksT408pt7G5FsYQ2OfCSJEQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Interstellar",
+        "Year": "2014",
+        "Ad Cat": "UA",
+        "Duration": "2h 49m",
+        "Rating": "8.7",
+        "Cast": [
+            "Matthew McConaughey",
+            "Anne Hathaway",
+            "Jessica Chastain"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan"
+        ],
+        "Storyline": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life. \u2014ahmetkozan",
+        "Genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Interstellar/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1586278169/1434659607842-pgv4ql-1616202363366.mp4?Expires=1714336922&Signature=hmiRE6R0qYOPITll7kMvpsUVP7uPhOtONLoXvRq53B9lFVwv42b9VyrjvJZ33bYi7RlHbJ~v4WTJFFpDfECktvP0VIVnpirxN4Bv8cF5-tdJhdWapB8vfIt4nAurmqi6krnOB~FYtcEZdyGeCWVjcjB693czn6lX2fWHRM3cEUqIWuyuxWa3ztnGfVBplfUOnssEIeMXO5rG7z-bzMbnw4GaxnRNidxlG2~nyzOGQ1C2oSHxTLuinRHxA7H90kHSJni7a6HnSoGEuekAhX5mgM6TX6uiJpl3T3ejY0KoPkuul5yFRt8DFzZlBx8PthOCXZ7bbRPbdD3t9mISanUQfQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Matrix",
+        "Year": "1999",
+        "Ad Cat": "A",
+        "Duration": "2h 16m",
+        "Rating": "8.7",
+        "Cast": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "Directors": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "Writers": [
+            "Lilly Wachowski",
+            "Lana Wachowski"
+        ],
+        "Storyline": "Thomas A. Anderson is a man living two lives. By day he is an average computer programmer and by night a hacker known as Neo. Neo has always questioned his reality, but the truth is far beyond his imagination. Neo finds himself targeted by the police when he is contacted by Morpheus, a legendary computer hacker branded a terrorist by the government. As a rebel against the machines, Neo must confront the agents: super-powerful computer programs devoted to stopping Neo and the entire human rebellion. \u2014redcommander27",
+        "Genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/The_Matrix/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1032782617/1434659607842-pgv4ql-1606954147857.mp4?Expires=1714337660&Signature=RdZqzEqxGHUWzyL1eQ4msF-9Tvl7ySAVHTpgbIUI82-fnV8N-2sL1q6a8fqYuAsLFaeNSw1wQlz1Rb~DljPdWj3cIf0sJ974aFszJNfwC4uPdyms5yePreM474h6N8wLiwdt2nrYDejOnonlMDA93JnnWYXZOUxU5M6gnW6PCIXmEtH6LpaGFQrWpvg7nvf~I~S6E873slK39I4LubBCUUO68SAvauDu5pgEwNNDcXh~962-cVo9xhpeEArR89e8LoZ5DUt0xnTyJDxwJWGJlWDFwx39M84ZjUnMrGcpxe~8X0IYEXxUBMpykcqwS7ia5DalVlS~RrjLxMvmR-n9vw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "GoodFellas",
+        "Year": "1990",
+        "Ad Cat": "A",
+        "Duration": "2h 25m",
+        "Rating": "8.7",
+        "Cast": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "Nicholas Pileggi",
+            "Martin Scorsese"
+        ],
+        "Storyline": "Henry Hill might be a small time gangster, who may have taken part in a robbery with Jimmy Conway and Tommy De Vito, two other gangsters who might have set their sights a bit higher. His two partners could kill off everyone else involved in the robbery, and slowly start to think about climbing up through the hierarchy of the Mob. Henry, however, might be badly affected by his partners' success, but will he consider stooping low enough to bring about the downfall of Jimmy and Tommy? \u2014Colin Tinto <cst@imdb.com>",
+        "Genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "Languages": [
+            "English",
+            "Italian"
+        ],
+        "Image Location": "images/GoodFellas/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2673654553/1434659607842-pgv4ql-1536960216608.mp4?Expires=1714337275&Signature=IbdLb8Oi5KBez-67C0e9y7JL18TiLxZ6scaYLjUYyCUFmlS6BWJqC1FARTJdNwzGK9OrC1~84nM9J7cmBk0nMfbCqIcT1NGuoPQ9ZGgXgdfu0rJO-WICcXvmz-D6ac0099w4ziLNw6L8E4D1oY46GaOqBw4rHJ4b7-7UXGa6Guz3gUOG8fIRxhQYL4-g9zIKpwUlnFvlQCZYLsdymECxCJT1~unRFJhqP2KvPxqlnkVcA9mt6u19Sy7jMNeXWifj-WmrMQXPAoWfapDRugIK4upAGSSrjh9pVH9DhhuNcH43Ult3L-6cEtvO91l0z8C-ZxJFn40XS~sAilGW8Q2uzw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "One Flew Over the Cuckoo's Nest",
+        "Year": "1975",
+        "Ad Cat": "A",
+        "Duration": "2h 13m",
+        "Rating": "8.7",
+        "Cast": [
+            "Jack Nicholson",
+            "Louise Fletcher",
+            "Michael Berryman"
+        ],
+        "Directors": [
+            "Milos Forman"
+        ],
+        "Writers": [
+            "Lawrence Hauben",
+            "Bo Goldman",
+            "Ken Kesey"
+        ],
+        "Storyline": "McMurphy has a criminal past and has once again gotten himself into trouble and is sentenced by the court. To escape labor duties in prison, McMurphy pleads insanity and is sent to a ward for the mentally unstable. Once here, McMurphy both endures and stands witness to the abuse and degradation of the oppressive Nurse Ratched, who gains superiority and power through the flaws of the other inmates. McMurphy and the other inmates band together to make a rebellious stance against the atrocious Nurse. \u2014Jacob Oberfrank",
+        "Genre": [
+            "Drama"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/One_Flew_Over_the_Cuckoos_Nest/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3943282969/1434659607842-pgv4ql-1504835882703.mp4?Expires=1714337686&Signature=rZX7cp44dJ8ttSUgJQ3udsdwxcrrz1DGvuUOmPqkWr4iEjLh9V-bgb47OUH7tX-~MIEe65DUkQTie~pcjWpMc2m8vS6rgmngMsuWmKYuBpNlIgipsM5mojLznyROkGUfvG0x3WrPluImnsnjRZdafKsJ4aYotuVrz6ySe9EpUNsYbhpL0Xvn4Br71eylOEJOemDnJkUzzgJveU-kzz3hLTHcLuoNZ9uR0SG-oikr-DRWhGtJWRvvBJD6cgewO~1UvVxALIstzas8j00rX-ZGPNBVm0RtG8ldqVSfYMqgECaBG~m05eLqF64Raj~iFNSxasNLboRwLWllv6U7T-rRCQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Star Wars: Episode V - The Empire Strikes Back",
+        "Year": "1980",
+        "Ad Cat": "UA",
+        "Duration": "2h 4m",
+        "Rating": "8.7",
+        "Cast": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ],
+        "Directors": [
+            "Irvin Kershner"
+        ],
+        "Writers": [
+            "Leigh Brackett",
+            "Lawrence Kasdan",
+            "George Lucas"
+        ],
+        "Storyline": "The legendary saga continues as the Rebel Alliance faces increasing challenges from the powerful Galactic Empire. Luke Skywalker, Han Solo, and Princess Leia Organa find themselves confronting new trials that test their courage, friendships, and beliefs. The Rebel Alliance has established a hidden base on the icy planet of Hoth, where they hope to regroup and plan their next moves against the Empire. Luke Skywalker receives a message from a familiar source, prompting him to seek further guidance in understanding his connection to the Force. Han Solo and Princess Leia's journey takes them on a perilous path as they navigate through a galaxy under Imperial control. Their actions and decisions lead to unforeseen consequences that will impact the fate of the Rebellion. Meanwhile, the dark presence of Darth Vader looms, as he relentlessly pursues the Rebels while dealing with inner conflicts of his own. \u2014Evan Almindo",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Star_Wars_Episode_V_The_Empire_Strikes_Back/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi221753881/1434659607842-pgv4ql-1449789138097.mp4?Expires=1714337698&Signature=eEkeydMijaEERkhF2yv0i6TD~1U-AJQU2B4f0rnPAygYeTcC8NdOJVSR7aqu62LXeqzj1EVl7iqdE7TW8jKWmsSdabw0gXiACMgr7-k4COXEiv1wSSJkJ1AXHM9t3Wq8cAGP8h624JCZx89CnvFwMx3JGDdZYBVwj5Nw8MpWcDfvNiKtbKQFvwU0vOrGQX53MF12g0M4P5ABKwahpb~b7yFbImLcIkd9JRjoJ7mFnunKUficn0UHdFQ2mrIVOQyc2rQMBjXPvvS3cEzyWnVuyxT~kS88FNtDEAz0eBoUYxDYiIQzSSCQqvUyQQ5gImNOJP~~mEwK1xBgMbUPAyaHEg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Spider-man: Across the Spider-verse",
+        "Year": "2023",
+        "Ad Cat": "U",
+        "Duration": "2h 20m",
+        "Rating": "8.6",
+        "Cast": [
+            "Shameik Moore",
+            "Hailee Steinfeld",
+            "Brian Tyree Henry"
+        ],
+        "Directors": [
+            "Joaquim Dos Santos",
+            "Kemp Powers",
+            "Justin K. Thompson"
+        ],
+        "Writers": [
+            "Phil Lord",
+            "Christopher Miller",
+            "Dave Callaham"
+        ],
+        "Storyline": "Miles Morales returns for the next chapter of the Oscar\u00ae-winning Spider-Verse saga, an epic adventure that will transport Brooklyn's full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered. \u2014Sony Pictures",
+        "Genre": [
+            "Animation",
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Spiderman_Across_the_Spiderverse/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi207143961/1434659607842-pgv4ql-1684523586073.mp4?Expires=1714337711&Signature=HnpZurvcSlhsTkNry9OdWrolpvtNizYR46YxXNOmlfu5QaH7RQsIeT-L3XofhbvXoRrGjvRQi4uqQdCyOzHTZqRSl-l0YCG4hfcpPWNe5n6wSvlhC9a2U9xN6ESbq6Jj07EnjETfRQZcTwPolpWgBSv~HCfZ83Pw3P7lbR84aUAXnkzKUImzO8ydGuMGmdMYb5xU611wwGd5d4zxWgHX4G3d~FmI9d4EGjIsEh6kgiKAJLND-92pcDIefl0ArlPW9Rdcb1Xovpk~nk3ULGHGKd5RPx397gUD66FQSlyoKRuksUUEU6q1AwBlVD78epuV19lH~YK6iQcfLI37LZJv-w__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Green Mile",
+        "Year": "1999",
+        "Ad Cat": "UA",
+        "Duration": "3h 9m",
+        "Rating": "8.6",
+        "Cast": [
+            "Tom Hanks",
+            "Michael Clarke Duncan",
+            "David Morse"
+        ],
+        "Directors": [
+            "Frank Darabont"
+        ],
+        "Writers": [
+            "Stephen King",
+            "Frank Darabont"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "French"
+        ],
+        "Image Location": "images/The_Green_Mile/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi552796441/1434659607842-pgv4ql-1563977441652.mp4?Expires=1714337725&Signature=uREktMEhVNOwY3Mw46eXywDbjN9u0E1fKaxRqrLNb2qpFfGsmBzLniZ-ZAlEmGz1fE3EsMnMVFN80yWiQd1hJAJkaoazfIw-ZfzKds~FBqJ-KIXNfBf5Kqsrz8n9SC0Zt3I-84Ki7BNFc8Nn-KKUypu9YjX-rXiw9ECZquQ47s8kkDLahbB9CHOJTqClhZRlxOxdFaOnUhqyH694Up~oajzw7n3Z0zyid2MycnhDZqYnlBNBO2vFsu~o5ymkz4pA2aSy~MPLmcKMTwQsXWld1o2YDNXEs74Xox1wmcRlnLDMXdxP4cJFArTHf3z~Wl~47uShK~z2Le5IDT6C6Y1zhA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Se7en",
+        "Year": "1995",
+        "Ad Cat": "A",
+        "Duration": "2h 7m",
+        "Rating": "8.6",
+        "Cast": [
+            "Morgan Freeman",
+            "Brad Pitt",
+            "Kevin Spacey"
+        ],
+        "Directors": [
+            "David Fincher"
+        ],
+        "Writers": [
+            "Andrew Kevin Walker"
+        ],
+        "Storyline": "A film about two homicide detectives' (Morgan Freeman and Brad Pitt) desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer... \u2014Mark Fleetwood <mfleetwo@mail.coin.missouri.edu>",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Se7en/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2508831257/1434659607842-pgv4ql-1540843135385.mp4?Expires=1714337238&Signature=CDsOHaoYUrmsHlnGdHHAbu6nJBqyQaJY60tBmBUxh2p9FHAjHcQUzyzZUJJSv8WLgy1-h0LfyK4TWAU0KqQ4Mx1Vdslebmp~AvSjuoMpeqFaQuURAuiJrk~p~sNP55XxrIT9hHB7gSUhR0Baq0AqNZ2JUDIf2tC6GY4I0DFAZ0QaQc3HLRhfV0YjWEnOic5eTM11IzsPOTdkzh2GvG-296Ua~6qYoOx9-pFr77Rj2YrMrbl7JwtVOEiB4tuocXzlK9q-AUOTRAf8anw8~AX0PVy79USx6ug23pKTXr1wClAqhCRxE9d39AoaqJkBxhAqjZuVlT6CF33dYvL51pM6jg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Silence of the Lambs",
+        "Year": "1991",
+        "Ad Cat": "A",
+        "Duration": "1h 58m",
+        "Rating": "8.6",
+        "Cast": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn"
+        ],
+        "Directors": [
+            "Jonathan Demme"
+        ],
+        "Writers": [
+            "Thomas Harris",
+            "Ted Tally"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Latin"
+        ],
+        "Image Location": "images/The_Silence_of_the_Lambs/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3377380121/1434659607842-pgv4ql-1537473620563.mp4?Expires=1714337736&Signature=Wdfiih6qpbP~PC2Rkr0Ad8qmgPuojVTEy2jRF1~PpodxilYHtMsVvIk13X3vm0AnInYm5eZfUZK5ctLy186PuwEPDEaD3ZGujixmAggMWDBod7fi5Q-4Rif1QslqEOmxq3tkA6EsbrtL0FPzHdZ3mI8chz2zinToASjVR97OpumsK2rbiM-Sry4ZIrPqp6f9JAZM5iNnqHp9jYmEgZX-2YXbjmYwJmiRVTF1E~I2aF7Gol34W9up9TEU2reJMGE2xuhBun5TUGVXLUgkbRidCTNd6OWr6meuCKDPGXY0vzHPv3Cz5xfdssbDPIEj~EzFHvipajgPgbt2Ped6iWFCJw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Star Wars: Episode IV - A New Hope",
+        "Year": "1977",
+        "Ad Cat": "U",
+        "Duration": "2h 1m",
+        "Rating": "8.6",
+        "Cast": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ],
+        "Directors": [
+            "George Lucas"
+        ],
+        "Writers": [
+            "George Lucas"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Star_Wars_Episode_IV_A_New_Hope/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1317709849/1434659607842-pgv4ql-1616202535791.mp4?Expires=1714337803&Signature=gg8-HpsJu6sRdKeyI-r2uDqWyqyDdD6VxHQ87TLtDM7pjGVf2lMb0aSepEN0-ylMld3BAe79Xs745c-r5KKdM13vKnPDUVUfiBdCXjXX6kvt~IS9R5Kw7NrH4J~SLvg8Aq3LFNYXsrMX9kHtnqkbuJ-yOkJ2gpNo4Pu1awtvZxUsHfRK5IZFbLZcZVlK~sKeNr7K6Z0c89cN281f9lHaIaEDZa6mq-l4gCMLerH2y5Hu6Z5LD6mmWlUsCQNgcJTVPDsmUd3n826M1Me-bA-I99yDjWveiNL5HDyhX83pdRtXLLxXlW38smLfkREhwXLysbHc3eUWtAP1VNREeQKxlw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Terminator 2: Judgment Day",
+        "Year": "1991",
+        "Ad Cat": "A",
+        "Duration": "2h 17m",
+        "Rating": "8.6",
+        "Cast": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Edward Furlong"
+        ],
+        "Directors": [
+            "James Cameron"
+        ],
+        "Writers": [
+            "James Cameron",
+            "William Wisher"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Spanish"
+        ],
+        "Image Location": "images/Terminator_2_Judgment_Day/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2748889369/1434659607842-pgv4ql-1498868672528.mp4?Expires=1714337837&Signature=PXn-h7pwO4Z1hcqzQm-XGHq7SjIorQagNZefGUnGI2HlmUkGUPYNe0C1rO9YqTUSuw5oTcAZW2JrcpaS8ZUTqw9pvs6x6WGKlakJ8vCsrViRhu3Eqt-nNWbbfLOkKYxGRBkUAgb2xKpW-UAy~D~weUfQYWM4PBh-f6ZYwj~BLkiAg3rIFypYk2UO3P1ICMSAr27p~7R0qIuSOGg4VVFVApwoMi2evNoG6gW9y9eiz2tFhxMJrAHvh0u6pvJKE95UWZOkXg0yuLFD8LiBVJ11YxmLYQ5r6181QFGH~wGfBR0Zo-muCrSDihmMPF-6iMFNVRMFd9WOT0tklvORTPd3EA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Spirited Away",
+        "Year": "2001",
+        "Ad Cat": "U",
+        "Duration": "2h 5m",
+        "Rating": "8.6",
+        "Cast": [
+            "Daveigh Chase",
+            "Suzanne Pleshette",
+            "Miyu Irino"
+        ],
+        "Directors": [
+            "Hayao Miyazaki"
+        ],
+        "Writers": [
+            "Hayao Miyazaki"
+        ],
+        "Storyline": "The fanciful adventures of a ten-year-old girl named Chihiro, who discovers a secret world when she and her family get lost and venture through a hillside tunnel. When her parents undergo a mysterious transformation, Chihiro must fend for herself as she encounters strange spirits, assorted creatures and a grumpy sorceress who seeks to prevent her from returning to the human world. \u2014Jwelch5742",
+        "Genre": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Fantasy",
+            "Mystery"
+        ],
+        "Languages": [
+            "Japanese",
+            "English"
+        ],
+        "Image Location": "images/Spirited_Away/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3619684633/1434659607842-pgv4ql-1564585734687.mp4?Expires=1714337871&Signature=roqOZ7GcqndPwEYweyDBrATH~gVHW2vCayf8Xh4NYaC0OFShd3ZA~0LuCbJTxxbwYs5Lda-UCDRvh52DNz0mgN0gADkvKRdtjEsY9gMOJm8ozCAL7pVDUDo4e6Y5llvGL51SyenK9asm3KcO28yi6rnhTOLu8M2FxmUgnS28uD1B~xNZXT8fQThBhyzqg0Tf~gl70BB7miEiSpz~7CeyLOvoSXwqnYNalFXenej5MGUgZKgaYqkNq-gLg4cA-rWHmCUspv~4ywuoKGo1~GCwILbWT8di0WdKqj4X-m5PYXhQEIB3sgTTNLDoGq5L-VUmuBML2jJTJ1SCWvUM5c-vFQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Saving Private Ryan",
+        "Year": "1998",
+        "Ad Cat": "A",
+        "Duration": "2h 49m",
+        "Rating": "8.6",
+        "Cast": [
+            "Tom Hanks",
+            "Matt Damon",
+            "Tom Sizemore"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Robert Rodat"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "French",
+            "German",
+            "Czech"
+        ],
+        "Image Location": "images/Saving_Private_Ryan/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1908983577/1434659607842-pgv4ql-1697562251367.mp4?Expires=1714337883&Signature=oeLs9UM~FH~uyZXiKrIfWT990y0MbeUdmtlDzzYq7Qfg2P3hCGPdecK38hKrhbWMmpJGqXzqhcDkX26Je3~sAQpjk~2V-gtq9pWkXJVcBiWgjYmA2H1t9lDN~~thomWt1DwqO9wt8TvpwnmaYJJ5QdsroQZARJ995iC67yXYQyhrScWvW5G-T6Ke8MHD1bP3iMekR8wznR6fAjkVVRMZTOOdfkf5uApLqq~rqF3mldyPP1Ov5Bl5H83rhoXwdLJ5toZIsYW6xk2rBZ~uH4-XfC~tcB85KwPNwmQTE38XqpEm~zbTUb~JRhW482l6yl~2VGlm7Zo4bDes-lQZPcoqAg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "City of God",
+        "Year": "2002",
+        "Ad Cat": "A",
+        "Duration": "2h 10m",
+        "Rating": "8.6",
+        "Cast": [
+            "Alexandre Rodrigues",
+            "Leandro Firmino",
+            "Matheus Nachtergaele"
+        ],
+        "Directors": [
+            "Fernando Meirelles",
+            "K\u00e1tia Lund"
+        ],
+        "Writers": [
+            "Paulo Lins",
+            "Br\u00e1ulio Mantovani"
+        ],
+        "Storyline": "Brazil, 1960s, City of God. The Tender Trio robs motels and gas trucks. Younger kids watch and learn well...too well. 1970s: Li'l Z\u00e9 has prospered very well and owns the city. He causes violence and fear as he wipes out rival gangs without mercy. His best friend Ben\u00e9 is the only one to keep him on the good side of sanity. Rocket has watched these two gain power for years, and he wants no part of it. he keeps getting swept up in the madness. All he wants to do is take pictures. 1980s: Things are out of control between the last two remaining gangs...will it ever end? Welcome to the City of God. \u2014Jeff Mellinger <jeffmellinger@astound.net>",
+        "Genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Languages": [
+            "Portuguese"
+        ],
+        "Image Location": "images/City_of_God/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1783208985/1434659607842-pgv4ql-1563947141179.mp4?Expires=1714337581&Signature=VSfYQegIYn4gQe8J2dXa3yGBo25r7uafcsKGicb0Rk1xLKK89uS6BqqGBZ6NUNmI~Arg1gv0x3bYO5cUFoDDN6i27EeuQ6o7gL1jN4leHdwG6YuLU8lmsPYnh1Q-Em6AZlYAs4iJB9GDHnWC2CfOxcJ4497Parp2O~YWKjKwM~NEToHONO~BH1wJBV4xeUA8xWrldml6FktvcxM8aJhs7c~Zi3de8D7eFTsBH50ASLDJ835SY0wrWsV8~Sgmn6lqa~i~091UqUSaaD0cuurT4blj5EBvnKiSkNxghecYyoK0xzNg3LTGW4uAqVo0dMJaQQtSJIa~hfqEYDU9jKGp6A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Life Is Beautiful",
+        "Year": "1997",
+        "Ad Cat": "U",
+        "Duration": "1h 56m",
+        "Rating": "8.6",
+        "Cast": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini"
+        ],
+        "Directors": [
+            "Roberto Benigni"
+        ],
+        "Writers": [
+            "Vincenzo Cerami",
+            "Roberto Benigni"
+        ],
+        "Storyline": "In 1930s Italy, a carefree Jewish waiter-turned-bookseller named Guido starts a fairy tale life by courting and marrying a lovely woman teacher named Dora. Guido and Dora have a son named Joshua and live happily together until the forced deportation of the town's Jewish population in cattle cars. Dora, while not required to be deported, volunteers to leave with her family, and they are all forced to live in a concentration camp. In an attempt to hold his family together and help his son survive the horrors of a concentration camp, Guido imagines that the Holocaust is a game and that the grand prize for winning is a tank. \u2014Anthony Hughes <husnock31@hotmail.com>",
+        "Genre": [
+            "Comedy",
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Languages": [
+            "Italian",
+            "German",
+            "English"
+        ],
+        "Image Location": "images/Life_Is_Beautiful/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2332801561/1434659607842-pgv4ql-1548604686311.mp4?Expires=1714337929&Signature=Gk7DZvTv6ylZATLtmUyuSzU0eCszrhMG~2dGhb-6WGRWyBQwmO09vnCxlFPXBgUgQMi5Ps7x~c7LE7dq-NrRA-fWYmuFRczgCLslRQUx0JMsvhhDf76UYur8Qnu51UOmBxTFTxwW6T6vZPhIBWP9qy1bqhrsRmJw4oqoEDl8XEbN3yiP8~QknxTUfpyjmkYHdnPwU-YfO6nmf9bLqKj3BOT5f305TGYV4OdpD-nofNFrTEKq5myKV~gOeH5epJ8RtIbw-PqZdWRx59WE3D1Rl9Q~3dp5-UmCakrG9v1alvF0l0pvLpjGCJV~-~vXpFCtxMWl51i-1P4dZLoAsA8JbQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Shichinin No Samurai",
+        "Year": "1954",
+        "Ad Cat": "U",
+        "Duration": "3h 27m",
+        "Rating": "8.6",
+        "Cast": [
+            "Toshir\u00f4 Mifune",
+            "Takashi Shimura",
+            "Keiko Tsushima"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Akira Kurosawa",
+            "Shinobu Hashimoto",
+            "Hideo Oguni"
+        ],
+        "Storyline": "A veteran samurai, who has fallen on hard times, answers a village's request for protection from bandits. He gathers 6 other samurai to help him, and they teach the townspeople how to defend themselves, and they supply the samurai with three small meals a day. The film culminates in a giant battle when 40 bandits attack the village. \u2014Colin Tinto <cst@imdb.com>",
+        "Genre": [
+            "Action",
+            "Drama"
+        ],
+        "Languages": [
+            "Japanese"
+        ],
+        "Image Location": "images/Shichinin_No_Samurai/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2923348761/1434659607842-pgv4ql-1641601248908.mp4?Expires=1714337942&Signature=t5qU5x7skat~cDyB~WCVZLygh42xwOC9jd-pMn3gv-v8rqBxQJKxpppxGrIDL~7o6LDMVDZjn6d-ctrYGTeoRVFu3vKWF8zwVIL-0DTc1sHjSUxuhI9QV12VeDu5FyTk3ubxnXIiNbCBmG~spgwEM24l79lby05bXmNgjE~57xM28~tFcuwduRi4UuH5KG68HjnomBT7zAmcZt2m9zgqohbx5zR~ZvRw1L0tpICboCUMvslCNxghYy~YpxXAzwby9M8Esebz5Skg-mGmtW8SbNbPpVw~913-NKdlCiZAEBzfBxNXmYyqPnPvy7txsJ-oOzstnoUkAfu7lN1WMiJqCw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "It's a Wonderful Life",
+        "Year": "1946",
+        "Ad Cat": "PG",
+        "Duration": "2h 10m",
+        "Rating": "8.6",
+        "Cast": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore"
+        ],
+        "Directors": [
+            "Frank Capra"
+        ],
+        "Writers": [
+            "Frances Goodrich",
+            "Albert Hackett",
+            "Frank Capra"
+        ],
+        "Storyline": "George Bailey has spent his entire life giving of himself to the people of Bedford Falls. He has always longed to travel but never had the opportunity in order to prevent rich skinflint Mr. Potter from taking over the entire town. All that prevents him from doing so is George's modest building and loan company, which was founded by his generous father. But on Christmas Eve, George's Uncle Billy loses the business's $8,000 while intending to deposit it in the bank. Mr. Potter finds the misplaced money and hides it from Uncle Billy. When the bank examiner discovers the shortage later that night, George realizes that he will be held responsible and sent to jail and the company will collapse, finally allowing Mr. Potter to take over the town. Thinking of his wife, Mary, their four children, and others he loves will be better off with him dead, he contemplates suicide. But the prayers of his loved ones result in his guardian angel named Clarence Odbody coming to Earth to help him, with the promise of earning his wings. He shows him what things would have been like if he had never been born.",
+        "Genre": [
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Romance"
+        ],
+        "Languages": [
+            "English",
+            "French"
+        ],
+        "Image Location": "images/Its_a_Wonderful_Life/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1101988121/1434659607842-pgv4ql-1564594359395.mp4?Expires=1714337308&Signature=LYh1wiXVmGsjjHXx4EbGNXalveFWCUcWSbkgjoOhTwfA35fjwdzgzESrQ2-cIuqnwf2zk6jhmPx-OWwB~MgukTuAwGfeW4hoJsZqrSn9s2WdrhtdfgrCP65TIMGKP2HDiyFkrgjHv6DUGROMDTwZ9bKXp~Yqu1blO5twAizzcATg-Mo46cxm8vMhfqIYQggnbyRGeMLKzuIG82uE8eneLYWMti0C8oUd6jU-hl19dPyQAOl85J6Iy90kGtgDcL2Tzl3CvJH0im3ij~tGq5Twdh-Og5yVmVxIZZ6ZQEcM3kSRBNJM-OKshP2kyZm6iuMIBKYXKbU38LhcZryRyDSS1w__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Seppuku",
+        "Year": "1962",
+        "Ad Cat": "Not Rated",
+        "Duration": "2h 13m",
+        "Rating": "8.6",
+        "Cast": [
+            "Tatsuya Nakadai",
+            "Akira Ishihama",
+            "Shima Iwashita"
+        ],
+        "Directors": [
+            "Masaki Kobayashi"
+        ],
+        "Writers": [
+            "Yasuhiko Takiguchi",
+            "Shinobu Hashimoto"
+        ],
+        "Storyline": "A samurai, Hanshiro Tsugumo, arrives at the house of the Iyi Clan with an unusual request. Due to his circumstances, he wishes to commit harakiri, ritual suicide, in the courtyard of the house. Turns out this is not such an unusual request: the clan has had such requests before, though the requestor's intentions weren't always honourable. The Clan elder tells Tsugumo the story of the last samurai who made the request and how that ended. Will he still go through with it? \u2014grantss",
+        "Genre": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "Languages": [
+            "Japanese"
+        ],
+        "Image Location": "images/Seppuku/",
+        "Trailer Link": null
+    },
+    {
+        "Movie Name": "Gladiator",
+        "Year": "2000",
+        "Ad Cat": "UA",
+        "Duration": "2h 35m",
+        "Rating": "8.5",
+        "Cast": [
+            "Russell Crowe",
+            "Joaquin Phoenix",
+            "Connie Nielsen"
+        ],
+        "Directors": [
+            "Ridley Scott"
+        ],
+        "Writers": [
+            "David Franzoni",
+            "John Logan",
+            "William Nicholson"
+        ],
+        "Storyline": "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge. \u2014Chris \"Morphy\" Terry",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Gladiator/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2628367897/1434659607842-pgv4ql-1473794595177.mp4?Expires=1714337990&Signature=um7w9Pt~j6lEuEUIRXbRlA-z-wilJkyq-0gpIfM9SwGXkHOQVj-NfRhN2N9MQfwsDxUwFbFLz9Z9~Txhrtxgr3mGpxup0LiIPQst9l6H-0XXldeK6QWsjJu3Hwu~ujlDwhSHeUWFpPOr6CPqQYOWigPZ3RweWyRUuAmZY01Kg3sjOMRQgQzAcrTNnBhRjhc1wffQtnzZh7yGOGXj70SzdYmdS8dktdeJKjbgS72s3WriE5Q8qwwBw~NR2yUs7kcfGsYBDfEXHPaW-DURqg935EYWW06~Az7QGWBmvetkqb7MtLJQbyhUnclKjGp~068fHNtqcVI0lrOoE-Lvi2BUUA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Parasite",
+        "Year": "2019",
+        "Ad Cat": "A",
+        "Duration": "2h 12m",
+        "Rating": "8.5",
+        "Cast": [
+            "Song Kang-ho",
+            "Lee Sun-kyun",
+            "Cho Yeo-jeong"
+        ],
+        "Directors": [
+            "Bong Joon Ho"
+        ],
+        "Writers": [
+            "Bong Joon Ho",
+            "Han Jin-won"
+        ],
+        "Storyline": "The Kims - mother and father Chung-sook and Ki-taek, and their young adult offspring, son Ki-woo and daughter Ki-jung - are a poor family living in a shabby and cramped half basement apartment in a busy lower working class commercial district of Seoul. Ki-woo is the one who has dreams of getting out of poverty by one day going to university. Despite not having that university education, Ki-woo is chosen by his university student friend Min, who is leaving to go to school, to take over his tutoring job to Park Da-hye, who Min plans to date once he returns to Seoul and she herself is in university. The Parks are a wealthy family who for four years have lived in their modernistic house designed by and the former residence of famed architect Namgoong. While Mr. and Mrs. Park are all about status, Mrs. Park has a flighty, simpleminded mentality and temperament, which Min tells Ki-woo to feel comfortable in lying to her about his education to get the job. In getting the job, Ki-woo further learns that Mrs. Park is looking for an art therapist for the Parks' adolescent son, Da-song, Ki-woo quickly recommending his professional art therapist friend \"Jessica\", really Ki-jung who he knows can pull off the scam in being the easiest liar of the four Kims. In Ki-woo also falling for Da-hye, he begins to envision himself in that house, and thus the Kims as a collective start a plan for all the Kims, like Ki-jung using assumed names, to replace existing servants in the Parks' employ in orchestrating reasons for them to be fired. The most difficult to get rid of may be Moon-gwang, the Parks' housekeeper who literally came with the house - she Namgoong's housekeeper when he lived there - and thus knows all the little nooks and crannies of it better than the Parks themselves. The question then becomes how far the Kims can take this scam in their quest to become their version of the Parks.",
+        "Genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "Languages": [
+            "Korean",
+            "English"
+        ],
+        "Image Location": "images/Parasite/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1015463705/1434659607842-pgv4ql-1606954080073.mp4?Expires=1714338003&Signature=I-IPcKHfUPm3keJGX3n-md1TbUOLbVZGMzPp63kdNbl7WQ5-MUrIv0k5R3GX5LlLz3w0P9PDFWGja6X2WzjwhWT9PFdf1951~5uvaKqZajcOpuj0qVxAXvCgj-ERonIHvT2dzE1fItADuQMA1gwNUHBXjZEAqqw3J4VcE~PXVQ7l-YZPR~3hA1gCvHH5i4C~5mibNGdP9oS4nuu-iUlR36Gq5-cMo26DYUZ8r~WAsB5cjYat7DxCuAxYkT4nW5m6stOQdZ5Vc2hFBizwDAdSAxRM1dS9o0OUA4BGkq~tEj8OHfQaLP089TfmGt5l4wbSE8jdOSK45DlAAYi~LetVcw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Departed",
+        "Year": "2006",
+        "Ad Cat": "A",
+        "Duration": "2h 31m",
+        "Rating": "8.5",
+        "Cast": [
+            "Leonardo DiCaprio",
+            "Matt Damon",
+            "Jack Nicholson"
+        ],
+        "Directors": [
+            "Martin Scorsese"
+        ],
+        "Writers": [
+            "William Monahan",
+            "Alan Mak",
+            "Felix Chong"
+        ],
+        "Storyline": "In this crime-action tour de force, the South Boston state police force is waging war on Irish-American organized crime. Young undercover cop Billy Costigan is assigned to infiltrate the mob syndicate run by gangland chief Frank Costello. While Billy quickly gains Costello's confidence, Colin Sullivan, a hardened young criminal who has infiltrated the state police as an informer for the syndicate, is rising to a position of power in the Special Investigation Unit. Each man becomes deeply consumed by their double lives, gathering information about the plans and counter-plans of the operations they have penetrated. But when it becomes clear to both the mob and the police that there is a mole in their midst, Billy and Colin are suddenly in danger of being caught and exposed to the enemy - and each must race to uncover the identity of the other man in time to save themselves. But is either willing to turn on their friends and comrades they've made during their long stints undercover? \u2014Anonymous",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Languages": [
+            "English",
+            "Cantonese"
+        ],
+        "Image Location": "images/The_Departed/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2760573209/1434659607842-pgv4ql-1563532402193.mp4?Expires=1714337752&Signature=UPH-T083dzd2hVl67zGur~ZhoKpil0mAIbz4VjhMcLMkYb1h61H3s8j5bR7i~vNKFScbyqkmTU37JzEFvPXVBcK51xEQCg4Lw29C3VVqSuHORX0bP5T-tJBFz3Wo~SKIb3rN~EJktkkJ5UiB7VEBy6fT0WLmjWX9zyscISeWwoZZQta-dB5wodKMlI3z4mJr9t-0NokWe16eAwzcKMpbUIwm7hG9OX6Q5o5btsgyJbAqznd3v5poOmR4pxCqhR6nDTjMO2z8m~edCDLdqboitgklA3JAkLeXjsUfVXI0k0CWbd1U0cLy~TIroKQ6n5Ovd0RoxwBpOEH-6Ees3RRWjw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Alien",
+        "Year": "1979",
+        "Ad Cat": "R",
+        "Duration": "1h 57m",
+        "Rating": "8.5",
+        "Cast": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "John Hurt"
+        ],
+        "Directors": [
+            "Ridley Scott"
+        ],
+        "Writers": [
+            "Dan O'Bannon",
+            "Ronald Shusett"
+        ],
+        "Storyline": "In the distant future, the crew of the commercial spaceship \"Nostromo\" is on its way home when the crew picks up a distress call from a distant moon. The crew is under obligation to investigate and the spaceship descends on the small planetoid afterward. After a rough landing, three crew members leave the spaceship to explore the area on the planetoid. At the same time as the crew discovers a hive colony of some unknown creature, the ship's computer deciphers the message to be a warning, not a distress call. When one of the eggs is disturbed, the crew realizes that it is not alone on the spaceship and it must deal with the consequences. \u2014blazesnakes9",
+        "Genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Alien/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1497801241/1434659607842-pgv4ql-1616202526026.mp4?Expires=1714338027&Signature=WPKMwguZNkQ9~FDwy7mRFMoMf31WRrGAZlovodEfzbR8Kk0-2v0Y6ur4Kug5aK5~JlIYavFe7vgUwLKutZWQ9HKMJVyRLD3IRLGNb1fbx93dPCkkgFDdXBP0EbqBA51UePlyYWhzy54iqJicLoealx2nbKmwrE1EQyjNhLyxioZHMxniqHLM2WWqf0IJHGd0bIuAIvL78dXIgPqJ50JEdy1CtK4FXqpF0h20lUzZGXvuousTQGiFzIU76R9XyXlp2pN2AiN6HqUHd5cX-CpSAsHXAfJqnzTA4rFGiQSb0552a~fSTk-JpteW7Cdf0S0EkZIsdaf2Cq8AjHZ8yWZkVQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Whiplash",
+        "Year": "2014",
+        "Ad Cat": "A",
+        "Duration": "1h 46m",
+        "Rating": "8.5",
+        "Cast": [
+            "Miles Teller",
+            "J.K. Simmons",
+            "Melissa Benoist"
+        ],
+        "Directors": [
+            "Damien Chazelle"
+        ],
+        "Writers": [
+            "Damien Chazelle"
+        ],
+        "Storyline": "Nineteen-year-old Andrew Niemann wants to be the greatest jazz drummer in the world, in a league with Buddy Rich. This goal is despite not coming from a pedigree of greatest, musical or otherwise, with Jim, his high-school-teacher father, being a failed writer. Andrew is starting his first year at Shaffer Conservatory of Music, the best music school in the United States. At Shaffer, being the best means being accepted to study under Terence Fletcher and being asked to play in his studio band, which represents the school at jazz competitions. Based on their less than positive first meeting, Andrew is surprised that Fletcher asks him to join the band, albeit in the alternate drummer position which he is more than happy to do initially. Andrew quickly learns that Fletcher operates on fear and intimidation, never settling for what he considers less than the best each and every time. Being the best in Fletcher's mind does not only entail playing well, but knowing that you're playing well and if not what you're doing wrong. His modus operandi creates an atmosphere of fear and of every man or woman for him/herself within the band. Regardless, Andrew works hard to be the best. He has to figure out his life priorities and what he is willing to sacrifice to be the best. The other question becomes how much emotional abuse he will endure by Fletcher to reach that greatness, which he may believe he can only achieve with the avenues opened up by Fletcher.",
+        "Genre": [
+            "Drama",
+            "Music"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Whiplash/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi4006456345/1434659607842-pgv4ql-1616202354600.mp4?Expires=1714338039&Signature=mPs-006rrC3wnoM8StAELgLWdK9Hfx85fRnEeSAhFsvFwcOUahIkN5I--S5rIDOfzmwdENsocN2jcETp~D3T84zF-z-xvsqhqwGc995CgOhicz8xaysBIlhKlvzYEWVG77iSKf8C7AfZ2voIwSEgQX4NIv4iKZKqzx5oBf83VaIdtIIBnCYzuF010RKdSIGa3JXhQDyFfqQB3rKJgVL~~HnNOdnJrtx7Imt09hnZc1MvRzJnDftpvbSSI-AfkKsZL5Jw1Na4GCrKPLhPR1aTloxjRjCvRurL~z2OtGkngN-a5vZw8EZ~ZWrGOEgmN1g2a5yQab6wvZwHm1zTZGNgYg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Django Unchained",
+        "Year": "2012",
+        "Ad Cat": "A",
+        "Duration": "2h 45m",
+        "Rating": "8.5",
+        "Cast": [
+            "Jamie Foxx",
+            "Christoph Waltz",
+            "Leonardo DiCaprio"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino"
+        ],
+        "Storyline": "In 1858, a bounty-hunter named King Schultz seeks out a slave named Django and buys him because he needs him to find some men he is looking for. After finding them, Django wants to find his wife, Broomhilda, who along with him were sold separately by his former owner for trying to escape. Schultz offers to help him if he chooses to stay with him and be his partner. Eventually they learn that she was sold to a plantation in Mississippi. Knowing they can't just go in and say they want her, they come up with a plan so that the owner will welcome them into his home and they can find a way. \u2014rcs0411@yahoo.com",
+        "Genre": [
+            "Drama",
+            "Western"
+        ],
+        "Languages": [
+            "English",
+            "German",
+            "French",
+            "Italian"
+        ],
+        "Image Location": "images/Django_Unchained/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2291574553/1434659607842-pgv4ql-1616202424410.mp4?Expires=1714337254&Signature=mN3c4godJ062G4rLJjIyaApDGRAjVqWrlEhqa-lmsqLmMK2QVfP1WO37~dYRvr15jqawAQIQx9wxxa6zMBo09ictx-IOeDeX~BvBEqYN19anYCd0Ugylw35UbRbrDsX7xexkXBWjsWSuE3UdHn-cznnd0MStwLeN2JvtMZzJ7YPAzzrYMjBGEke6S48EdY8yHYlW7jrEFm2bIuC3NQ3f4j78w9CtOSpru0u8rIvXfskvpF0rWhS2VAaH420FVL4s8f1HkGB7kmLSiC~37~pKXECUABdB2RB0nUpn9rZbnU5mu6hexgkdsmmSh7oRZp5kYTqIzqGb2j7cZ3k3elt4ow__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Usual Suspects",
+        "Year": "1995",
+        "Ad Cat": "A",
+        "Duration": "1h 46m",
+        "Rating": "8.5",
+        "Cast": [
+            "Kevin Spacey",
+            "Gabriel Byrne",
+            "Chazz Palminteri"
+        ],
+        "Directors": [
+            "Bryan Singer"
+        ],
+        "Writers": [
+            "Christopher McQuarrie"
+        ],
+        "Storyline": "Following a truck hijack in New York, five criminals are arrested and brought together for questioning. As none of them are guilty, they plan a revenge operation against the police. The operation goes well, but then the influence of a legendary mastermind criminal called Keyser S\u00f6ze is felt. It becomes clear that each one of them has wronged S\u00f6ze at some point and must pay back now. The payback job leaves 27 men dead in a boat explosion, but the real question arises now: Who actually is Keyser S\u00f6ze? \u2014Soumitra",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Languages": [
+            "English",
+            "Hungarian",
+            "Spanish",
+            "French"
+        ],
+        "Image Location": "images/The_Usual_Suspects/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2717188377/1434659607842-pgv4ql-1564025456200.mp4?Expires=1714338063&Signature=oSrmb6UkbOxSK2N5meBkMnrX0zeveOTk~dJ8SbI87R0ggDdbhgyIBbtx4Llq0IedmOPJVBJb5dtaG9iLJ0RiLJ~htX2FQKwqA7FjMPgYgTPtPDJ~HJtnEgU6Ldzi0hTcGd18bn9W67Pz7xW8KxdgWYOQtCQiPeaX0UdlXEnTYDxGkF953-M3Z6o1m5hNZV~Oka~zYWd3Zt0QOXbHAmvA6SNFaCM8ZR4U3n6lF~WeUCLIbtS1EKbTndAJVZR70U~au5EucTPefLW9SSyPwKmJft9R9K1v8e3CCDZIG1OwZy~f~8RvOgmYxBItOCbOpxkopIS7MqcOIDooffO2dd3eSQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Prestige",
+        "Year": "2006",
+        "Ad Cat": "U",
+        "Duration": "2h 10m",
+        "Rating": "8.5",
+        "Cast": [
+            "Christian Bale",
+            "Hugh Jackman",
+            "Scarlett Johansson"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan",
+            "Christopher Priest"
+        ],
+        "Storyline": "Set in London in the 1800s, two rival magicians read each others diary containing the secrets of their magic tricks and personal life. As we go back in time when the diaries were written, both magicians become obsessed with their rival's best trick. The tricks, as shown to the audience, look the same, but neither magician can figure out how his opponent does it. \u2014gary",
+        "Genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/The_Prestige/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2885334553/1434659607842-pgv4ql-1477505989007.mp4?Expires=1714338076&Signature=r0XqVeLyPdRzplPn4MNakylw6zXfySqKhFfl3cZmfrsCMHOprlUlbYqs6hvNVETYG33jASUX25mwCKBI~dzbTBMlOunWBaEZ-O~S-pcEGQhR~EXCCrtC7KRP~0fTek-KJGVmKyqLduoUH7F~BLqwM9N9Ccevm-zceTYydw~o1setXxJO9wRU~soOjgz5WgKLAYSX1yqzACrNXgT~wOd9GJdsMY~bcdUdbtalRGMd5vNXzw~zGXU1aYX5G~qEZG~U9KxWjgrV297-1NoX5239jhTOC985v0WpUsw8AWXxJGxj~ZeCSXh~xce3yc1rvIHNDl4lIK70J~z3CdOgbITY-w__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "L\u00e9on",
+        "Year": "1994",
+        "Ad Cat": "A",
+        "Duration": "1h 50m",
+        "Rating": "8.5",
+        "Cast": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman"
+        ],
+        "Directors": [
+            "Luc Besson"
+        ],
+        "Writers": [
+            "Luc Besson"
+        ],
+        "Storyline": "After her father, step-mother, step-sister and little brother are killed by her father's employers, the 12-year-old daughter of an abject drug dealer manages to take refuge in the apartment of a professional hitman who at her request teaches her the methods of his job so she can take her revenge on the corrupt DEA agent who ruined her life by killing her beloved brother. \u2014J. S. Golden",
+        "Genre": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Languages": [
+            "English",
+            "Italian",
+            "French"
+        ],
+        "Image Location": "images/L\u00e9on/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2744254745/1434659607842-pgv4ql-1564588687772.mp4?Expires=1714337872&Signature=kVbgv41E25cBFTZZMkVnU7M91HWx5wxJkZ49Nd7p8edtdl0hnYlsvAUW-D35yX-kzmZqNnyHYY5v3DaUcdmySYjV5P3sXxIjR0YyLh-gzj5i21BDa7-2m3-QTLRBAmNpZgZQYirRPzXxWPlsuxABvIFQS1GIyRmvtZb8rM1vNGTD3F~GUBHrTSv1i8od4zIH2iiHRVhJ7xibYIFA8PuzFWdg~Lq~WTDp2u1WwxjHy0t8Pint6oI9iJMBccWF08g3RZCnW8xmaBWImG3nh6tDSwtuWn8Au8mUAjZ~LqvRpjgLIr3J4~X2l0drfQYP4-PgFZ0a4CQFAJT2Jv3e4WmIZw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Back to the Future",
+        "Year": "1985",
+        "Ad Cat": "U",
+        "Duration": "1h 56m",
+        "Rating": "8.5",
+        "Cast": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Lea Thompson"
+        ],
+        "Directors": [
+            "Robert Zemeckis"
+        ],
+        "Writers": [
+            "Robert Zemeckis",
+            "Bob Gale"
+        ],
+        "Storyline": "Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean \"time machine\" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make certain his teenage parents-to-be meet and fall in love - so he can get back to the future. \u2014Official Synopsis",
+        "Genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Back_to_the_Future/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi870762265/1434659607842-pgv4ql-1694279024872.mp4?Expires=1714338101&Signature=DlWFX5TNPGRFbHsSz7zdSqpYVCvSXEhEVZoNc60Vz0ZyIEj2lgjYD85EwXfF2kFd3p55Dmq5vNXQjkdkadhRiWundJZo8h9V-wV29QjtTTmdJ86OvzL-~T0g~b2gdmCZKdG0MVEMyycjVwZffx6rFUOP1DXx36AujCiofZ3fje3vDs172NY32qKIM54zjrvCymf4Mg8veFBvcSmR0Tlt1tfFXmzxH4ppvgzewXdtsh3nBQEhGRHrZgjOZ7W7ZZqIob7TqIzUBqUiSy11QkdHCHpr2STGXwRrNDChd0s3dvJHkXv3EyuRLjX9~UNu4VSx--0wKWrSuOsme5A8TbIQIw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Lion King",
+        "Year": "1994",
+        "Ad Cat": "U",
+        "Duration": "1h 28m",
+        "Rating": "8.5",
+        "Cast": [
+            "Matthew Broderick",
+            "Jeremy Irons",
+            "James Earl Jones"
+        ],
+        "Directors": [
+            "Roger Allers",
+            "Rob Minkoff"
+        ],
+        "Writers": [
+            "Irene Mecchi",
+            "Jonathan Roberts",
+            "Linda Woolverton"
+        ],
+        "Storyline": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be? \u2014femaledragon1234",
+        "Genre": [
+            "Animation",
+            "Adventure",
+            "Drama",
+            "Family",
+            "Musical"
+        ],
+        "Languages": [
+            "English",
+            "Swahili",
+            "Xhosa",
+            "Zulu"
+        ],
+        "Image Location": "images/The_Lion_King/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3764362265/1434659607842-pgv4ql-1474413579826.mp4?Expires=1714338114&Signature=m~QOl~MX4TScWk6J8mLYTBeDIHVI3aX1zhopBItAKlW0CJRgyJruO8CCqwEYvIFPPITm4KrelIV5TdCqi9lCNOosxTu7O22gBa~Cw~l2SxWDf77ttL~Wz2FI0976wAtJhtsb4cig8~4hPruE1KjXFoF0B8UYvR8PlKckFtm~kxRmGAQvJcJ-tLoptaCta7YaVwP-T5~jh4XLdvdTtdC-iDhoQJ9h0t20vks~2VKzjUf7GJ4jb9VI~wZ6Kr~fOaN5t~LO9YSHMRLdVvbn4d5ASaab3UVMWDkkaKubNeUQo7G3VPwTMMokWfRk2yWBEDGo1B3bJOs468c5~BSV8FJNyg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Psycho",
+        "Year": "1960",
+        "Ad Cat": "A",
+        "Duration": "1h 49m",
+        "Rating": "8.5",
+        "Cast": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "Vera Miles"
+        ],
+        "Directors": [
+            "Alfred Hitchcock"
+        ],
+        "Writers": [
+            "Joseph Stefano",
+            "Robert Bloch"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Psycho/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi607099161/1434659607842-pgv4ql-1564572857335.mp4?Expires=1714337698&Signature=KJuOXEoipU6ULSQj81wd-zc3SuJqxfi7vpfMgSf1JT9syVhBvnmB97NoCYV5hOafAXhsDLfH3iiY6eF6zkjQqTSN7JR-sw4qyNFyX3Z2bT9HIk7qpziUuLoocIKCkPomHnGmY8V2fvxR9upqoxmSbXGFOcD6H-woKgM~MzI4dthiKnP-BtHnbGBHvLswdA4Sy3Ny1-9uN0IsFYyZ28rymhv7yOKxGR1xKTN76YcI5fenat2tiFDoTZFtegY4pmHmuCrXc8q~bVWek7DuVKGG7iOmUhdBN8odZ5ODmw5UAyyD3PzL01hhKzA93CT6g-j7QcUYlio3pglkPZS-hcayHQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Pianist",
+        "Year": "2002",
+        "Ad Cat": "13",
+        "Duration": "2h 30m",
+        "Rating": "8.5",
+        "Cast": [
+            "Adrien Brody",
+            "Thomas Kretschmann",
+            "Frank Finlay"
+        ],
+        "Directors": [
+            "Roman Polanski"
+        ],
+        "Writers": [
+            "Ronald Harwood",
+            "Wladyslaw Szpilman"
+        ],
+        "Storyline": "In this adaptation of the autobiography \"The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945,\" Wladyslaw Szpilman, a Polish Jewish radio station pianist, sees Warsaw change gradually as World War II begins. Szpilman is forced into the Warsaw Ghetto, but is later separated from his family during Operation Reinhard. From this time until the concentration camp prisoners are released, Szpilman hides in various locations among the ruins of Warsaw. \u2014Jwelch5742",
+        "Genre": [
+            "Biography",
+            "Drama",
+            "Music",
+            "War"
+        ],
+        "Languages": [
+            "English",
+            "German",
+            "Russian"
+        ],
+        "Image Location": "images/The_Pianist/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi988938521/1434659607842-pgv4ql-1563966673223.mp4?Expires=1714337671&Signature=E4K2ql4XMOQ4XbpTdNrTRRNk9AHsY8KlT4VusYo0q2tTbaI2547hLdsHxyKvH0fFPVRyJ~~7P5AiJEjC8KQJo2UY14MwiRjhIagFqCywHX2eB-EakoTxK3C2xAmcFvY9eixlxbwleS1bK-7rdYDelulggCf213~0mKv~S2PFCpOKcehfloMU2zN7XfyxbFwqCNQztpx1svFTSK7K5dYIVd6pLFMB8NLXvUX0mmI-rYn8IRY4-TVllxBgaWQj4X5CHsv8894UQrsUM-VN-5vyDlsbwsTcRkk5F0IfEdiL3CyOHM3mve-I-pRXTbhBEH2Ok8h~XJA7oX4Eh~l8fPYMcg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "American History X",
+        "Year": "1998",
+        "Ad Cat": "R",
+        "Duration": "1h 59m",
+        "Rating": "8.5",
+        "Cast": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Beverly D'Angelo"
+        ],
+        "Directors": [
+            "Tony Kaye"
+        ],
+        "Writers": [
+            "David McKenna"
+        ],
+        "Storyline": "Derek Vineyard is paroled after serving 3 years in prison for brutally killing two black men who tried to break into/steal his truck. Through his brother's, Danny Vineyard, narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did. \u2014Nitesh D.(nmxpa7@msn.com)",
+        "Genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/American_History_X/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi854001177/1434659607842-pgv4ql-1564093940605.mp4?Expires=1714338173&Signature=tZp0v25COrcrsxCBxXnEVBi~dVuXtDbI2mNKQKRf7J9C08u-2Amps59-FXXhE06f8BkFBlq7-2O~Zb0OW1bDNh9zQSPSYy2yfpGIhiUOv8Uy3eX-kKP6nKWJfU3~5LV5CG643UbNK8TauVVq-zv1BHMbt011hx0hmfE4OviVKyNIDdCGjHQpOJecwRO36XNzLQPXL~kwmwMWMLs1sB4I9~uneG6~JElz30ENkjsN1NafbtzRpVTGCdxyyclyj2M~rWtTSV7XvIpQE35t7yrshFDoGoW0faawHxWUipGZcXY0snSXoriOugeB-Sfk7a5hIWLMPxwxFvCV4r5WAxwTgg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Casablanca",
+        "Year": "1942",
+        "Ad Cat": "U",
+        "Duration": "1h 42m",
+        "Rating": "8.5",
+        "Cast": [
+            "Humphrey Bogart",
+            "Ingrid Bergman",
+            "Paul Henreid"
+        ],
+        "Directors": [
+            "Michael Curtiz"
+        ],
+        "Writers": [
+            "Julius J. Epstein",
+            "Philip G. Epstein",
+            "Howard Koch"
+        ],
+        "Storyline": "The story of Rick Blaine, a cynical world-weary ex-patriate who runs a nightclub in Casablanca, Morocco during the early stages of WWII. Despite the pressure he constantly receives from the local authorities, Rick's cafe has become a kind of haven for refugees seeking to obtain illicit letters that will help them escape to America. But when Ilsa, a former lover of Rick's, and her husband, show up to his cafe one day, Rick faces a tough challenge which will bring up unforeseen complications, heartbreak and ultimately an excruciating decision to make. \u2014Kyle Perez",
+        "Genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "Languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Russian"
+        ],
+        "Image Location": "images/Casablanca/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi6095897/1434659607842-pgv4ql-1616202585787.mp4?Expires=1714337868&Signature=QXJ025nWLU7UIS63yq75LVy0cWCuhFfIbNGLpEE4Wx5O6Ibem7R3u6dTF-njwlLH3Ie6hY0g3Bi9nwxSa5~4qRr21zPDrKp-bFrzmz43xFoA10eyxON890bzRYo4IwjuRVP07MhTAQTYKkUCKMUlxESmL3sWhSpd7Eb~8P9Q1v9hbKR6~Yk4vMzl5IVwjXetIsTJ3D~3t7R7qGGcdpwcTylUOrTFrBOQacVPiVtFhVVYsMMEzd45WZeeDQKeNOxkf409kUkHK3Jfr1wLbbN6hfzdLF645r4KMUhTudnOL4qfhXNKf8fdW6qVhdXR84OWrs6jJ1LOl9bBXGEXILLfoQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "C'era Una Volta Il West",
+        "Year": "1968",
+        "Ad Cat": "U",
+        "Duration": "2h 46m",
+        "Rating": "8.5",
+        "Cast": [
+            "Henry Fonda",
+            "Charles Bronson",
+            "Claudia Cardinale"
+        ],
+        "Directors": [
+            "Sergio Leone"
+        ],
+        "Writers": [
+            "Sergio Donati",
+            "Sergio Leone",
+            "Dario Argento"
+        ],
+        "Storyline": "Story of a young woman, Mrs. McBain, who moves from New Orleans to frontier Utah, on the very edge of the American West. She arrives to find her new husband and family slaughtered, but by whom? The prime suspect, coffee-lover Cheyenne, befriends her and offers to go after the real killer, assassin gang leader Frank, in her honor. He is accompanied by Harmonica, a man already on a quest to get even. \u2014DrGoodBeat / edited by statmanjeff",
+        "Genre": [
+            "Western"
+        ],
+        "Languages": [
+            "Italian",
+            "English",
+            "Spanish"
+        ],
+        "Image Location": "images/Cera_Una_Volta_Il_West/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi239075865/1434659607842-pgv4ql-1564621591982.mp4?Expires=1714337967&Signature=XC3IxmLsWIQ0vPpHuE7V4Q9HyVZiqoXQfloZhRpsVvRK1h3b8iD1lP-zEZpzNSYN9hcvaPp6M-JhJgdjkTTDgLZtxkwdG~HRAJDclbV0WQWdEXKs8O1XXF9U7a-76SGbvorK0leqHK~KaSD9wd69x1eOHOZ078TtLVMfUQLiGoen3o9mspLca5mcJfRA~rI0C4TFx0BWNTYG1k7N7rX2SukSssH5v132UjoKCo8rumADjVgKnKCEraLPlUL6gEgboad6GWNvM81wbLb9ZJzRqCCihg~Jsgbb0-IhGC0-b3rWXH0uoxuIe4y7MfmJ5ZJVGzCYnsOlLOAj7AIKAAqCIA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Intouchables",
+        "Year": "2011",
+        "Ad Cat": "UA",
+        "Duration": "1h 52m",
+        "Rating": "8.5",
+        "Cast": [
+            "Fran\u00e7ois Cluzet",
+            "Omar Sy",
+            "Anne Le Ny"
+        ],
+        "Directors": [
+            "Olivier Nakache",
+            "\u00c9ric Toledano"
+        ],
+        "Writers": [
+            "Olivier Nakache",
+            "\u00c9ric Toledano",
+            "Philippe Pozzo di Borgo"
+        ],
+        "Storyline": "A rich quadriplegic, living in a mansion in Paris, requires a live-in carer. A young offender turns up for an interview, but he is not really looking to get the job. However, to his surprise, he is hired. The two men then develop a close friendship. \u2014Anonymous",
+        "Genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Languages": [
+            "French",
+            "English"
+        ],
+        "Image Location": "images/Intouchables/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi59285529/1434659607842-pgv4ql-1616202345202.mp4?Expires=1714338210&Signature=I8x~OCJMOGRpV7Nj75BM9siOU~DtSECNb5VudQdxqvzL1DMBC5epiGwb04Da4PKu-Hm0f9ha14KbWo64igWE32x8syP64qsGbMQmXlo6z5eQqWZbpce0XDBb9L7bOP0GwE4uu4BQCxTGGfM4N4nauSmD4y~UTEdDjSzIViq2YKunBzfa78e~RC9OCFAuJ1qlJ8sdwd1Sy4ESBdU~LE3zZ2I8UytWQagjsgYDFwwLJQDLJ7KpxdddNBlZHTbUibQYKbgzOlQbEBgdLiV0No4SFT36dE5EHm~~pr4yfqWUQ1Dlie4pQPH8AUPm9GBK2Dsv0mIP6NL-GKhe-TpoiIyBfw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Grave of the Fireflies",
+        "Year": "1988",
+        "Ad Cat": "U",
+        "Duration": "1h 29m",
+        "Rating": "8.5",
+        "Cast": [
+            "Tsutomu Tatsumi",
+            "Ayano Shiraishi",
+            "Akemi Yamaguchi"
+        ],
+        "Directors": [
+            "Isao Takahata"
+        ],
+        "Writers": [
+            "Akiyuki Nosaka",
+            "Isao Takahata"
+        ],
+        "Storyline": "The story of Seita and Setsuko, two young Japanese siblings, living in the declining days of World War II. When an American firebombing separates the two children from their parents, the two siblings must rely completely on one another while they struggle to fight for their survival. \u2014Kyle Perez",
+        "Genre": [
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "Languages": [
+            "Japanese"
+        ],
+        "Image Location": "images/Grave_of_the_Fireflies/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1377679385/1434659607842-pgv4ql-1563669166430.mp4?Expires=1714338222&Signature=pkm5iVlc4qWhgCZbTiELFjEGx8GCnmc7gfj7Whyidr3UTFR-0HpSnCJJkN7BcF14~gwBVz7ZvyzpbOk3NWOHZYvAP~UfyV10vtqELWf0s8rE6RbKZtnnSzEkuAaPl-qqstCh4MAv~LSpKT6Dfgn9uJCN6o4FrihQkkf8lzHoywnDEilfWZiUEDxS2PUTv6-Z9DZcpg8CAHQ8njfLRHkA5~OrIXI1fC7KwAWAQUQKn3li3AD9nbJ8eeC~0EYGbmtjEMRuQAcV4Bud47UnvZRVk11TiQpugBbS7ekDBPTZDbOKGprnrpG9Nr-ctrX4P1TNvzzyuEwoyB~pDhNLXhmnjQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Rear Window",
+        "Year": "1954",
+        "Ad Cat": "U",
+        "Duration": "1h 52m",
+        "Rating": "8.5",
+        "Cast": [
+            "James Stewart",
+            "Grace Kelly",
+            "Wendell Corey"
+        ],
+        "Directors": [
+            "Alfred Hitchcock"
+        ],
+        "Writers": [
+            "John Michael Hayes",
+            "Cornell Woolrich"
+        ],
+        "Storyline": "Professional photographer L.B. \"Jeff\" Jefferies breaks his leg while getting an action shot at an auto race. Confined to his New York apartment, he spends his time looking out of the rear window observing the neighbors. He begins to suspect that a man across the courtyard may have murdered his wife. Jeff enlists the help of his high society fashion-consultant girlfriend Lisa Fremont and his visiting nurse Stella to investigate. \u2014Col Needham <col@imdb.com>",
+        "Genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Rear_Window/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1947451929/1434659607842-pgv4ql-1658944626382.mp4?Expires=1714337848&Signature=mZ9cJkw1LV9xI-VJNx5VLfhhnFrvumtAd~2yyE5zkpvn8RNw8uBywT-O8LFeSILycqSxtfgxBTLRKEkgCb~dbflUGIQEVqQxc3CeVPNDAml4SolUWxNzq50RXRDe3wNnCLgmQBXDqrDRNxga0RYkQAuJSG3jADJPvH3npuBuCPGzNIuImvn~2MXV7hdiwsI~dPXfNwi7xWT9zM-IVN43NR8IKRTjakN~YmI~P3zQDLYQ1dg1jQz6GEzhvG2xLDQBAUi1V6XCcdZNlNX8voHAYO1E~sBTXtGVVILVraeTlQDm7j2lCLmTt4jjmEAiK5aSoMRyWzSB4Rt6OfuokO2m0A__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Cinema Paradiso",
+        "Year": "1988",
+        "Ad Cat": "U",
+        "Duration": "2h 54m",
+        "Rating": "8.5",
+        "Cast": [
+            "Philippe Noiret",
+            "Enzo Cannavale",
+            "Antonella Attili"
+        ],
+        "Directors": [
+            "Giuseppe Tornatore"
+        ],
+        "Writers": [
+            "Giuseppe Tornatore",
+            "Vanna Paoli"
+        ],
+        "Storyline": "A boy who grew up in a native Sicilian Village returns home as a famous director after receiving news about the death of an old friend. Told in a flashback, Salvatore reminiscences about his childhood and his relationship with Alfredo, a projectionist at Cinema Paradiso. Under the fatherly influence of Alfredo, Salvatore fell in love with film making, with the duo spending many hours discussing about films and Alfredo painstakingly teaching Salvatore the skills that became a stepping stone for the young boy into the world of film making. The film brings the audience through the changes in cinema and the dying trade of traditional film making, editing and screening. It also explores a young boy's dream of leaving his little town to foray into the world outside. \u2014Clarisse P.",
+        "Genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Languages": [
+            "Italian"
+        ],
+        "Image Location": "images/Cinema_Paradiso/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2800655897/1434659607842-pgv4ql-1563887365515.mp4?Expires=1714337937&Signature=Po9DHdtPAxgDEUG63F2u5X-Q6nonhm5BPImCESR9V4rZXVe92W2XRn0l87jUdTpLfuLWEYvg4LyhJAcRvEWuLP1PDC9E3K-Bi3AEvpd91KaHIY8J6q4dnq20NfOutX3gORa-FCjA34AphMsTK2oJwdgUK5FOnauXSOP0iD-8EVy1IL6jKwYCr9F8ZUOnHX03eFkH2rLi9SMF3pKtKdSu2ULJbfDogso9QHuzrxWmIi5uS1sXgjo-XdH1uIKFf99NuMiMzmjqAo9GewnEeMWIaTMf84QblmeBE1QnmUzyaATG2TQOxKQOXPiHt7w7~mDTx97B4bwzVenFJ4pzknjQpQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Modern Times",
+        "Year": "1936",
+        "Ad Cat": "G",
+        "Duration": "1h 27m",
+        "Rating": "8.5",
+        "Cast": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Henry Bergman"
+        ],
+        "Directors": [
+            "Charles Chaplin"
+        ],
+        "Writers": [
+            "Charles Chaplin"
+        ],
+        "Storyline": "Chaplin's last 'silent' film, filled with sound effects, was made when everyone else was making talkies. Charlie turns against modern society, the machine age, (The use of sound in films ?) and progress. Firstly we see him frantically trying to keep up with a production line, tightening bolts. He is selected for an experiment with an automatic feeding machine, but various mishaps leads his boss to believe he has gone mad, and Charlie is sent to a mental hospital - When he gets out, he is mistaken for a communist while waving a red flag, sent to jail, foils a jailbreak, and is let out again. We follow Charlie through many more escapades before the film is out. \u2014Colin Tinto <cst@imdb.com>",
+        "Genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Modern_Times/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1756676633/1434659607842-pgv4ql-1648742951109.mp4?Expires=1714338260&Signature=JQPCdmq8ZraetRAfFnZo-3ZENOu6MHqsmijSVCZ2XcEew-PlNnyq3-xHW05wCeW12dfzIte0KpNkLFhzTR~8dejSH5l-bCocRa4~kox1O1GwHyUG9HcRBWKOkiM22EutDfGRy4VMgq4tKUMja5mubeihBu65KMypt-XRmiin9MCnZxIA6DnCtS~0uG~ArShOtL7jhLB8XLryEOxSgMZEfamA~18IHUN0mrmDeCNS~Zc6lmZKZKbbksgdVXFeozaH5m1sayQ4uwWI-3dFCmW2H1wZXTAH~4FtRBu90ERT-BNdMAwjnPsGUT-h1DkeEMXKPJ3n4mwYq6kYJ3JCf8PIPg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "City Lights",
+        "Year": "1931",
+        "Ad Cat": "G",
+        "Duration": "1h 27m",
+        "Rating": "8.5",
+        "Cast": [
+            "Charles Chaplin",
+            "Virginia Cherrill",
+            "Florence Lee"
+        ],
+        "Directors": [
+            "Charles Chaplin"
+        ],
+        "Writers": [
+            "Charles Chaplin",
+            "Harry Carr",
+            "Harry Crocker"
+        ],
+        "Storyline": "A tramp falls in love with a beautiful blind girl. Her family is in financial trouble. The tramp's on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor. \u2014John J. Magee <magee@helix.mgh.harvard.edu>",
+        "Genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "Languages": [
+            "None",
+            "English"
+        ],
+        "Image Location": "images/City_Lights/",
+        "Trailer Link": null
+    },
+    {
+        "Movie Name": "Joker",
+        "Year": "2019",
+        "Ad Cat": "A",
+        "Duration": "2h 2m",
+        "Rating": "8.4",
+        "Cast": [
+            "Joaquin Phoenix",
+            "Robert De Niro",
+            "Zazie Beetz"
+        ],
+        "Directors": [
+            "Todd Phillips"
+        ],
+        "Writers": [
+            "Todd Phillips",
+            "Scott Silver",
+            "Bob Kane"
+        ],
+        "Storyline": "A socially inept clown for hire - Arthur Fleck aspires to be a stand up comedian among his small job working dressed as a clown holding a sign for advertising. He takes care of his mother, Penny Fleck, and as he learns more about his mental illness, he learns more about his past. Dealing with all the negativity and bullying from society, he heads downwards on a spiral, in turn showing how his alter ego, \"Joker,\" came to be. \u2014crisspaggos",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "Languages": [
+            "English",
+            "German"
+        ],
+        "Image Location": "images/Joker/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1723318041/1434659607842-pgv4ql-1567008550851.mp4?Expires=1714338296&Signature=p8keySifClNXmem3sVO2CW33dyJU6PidbIxmxiZwaMz6c4AQIvMX3-inyIjQZ7gHXgncy0IhkJN5Ny9xA18lYpTVR2Zyir9gm0HZ2IxIUZPaJS5nonGDeWi-wKJ3eC3VSOpDS5MithIatGbAGVc1MkhunhEUfgtzohhHV39jBqkymwFFR7qyplMM-4WX1p5ftg7ORQaIWHbkHVcslesG-n4wYJR-KpJIFCkSijIHF7CM0PG4kf5R76nWvoVX3RL4xr2eO00OZO~taLvzDK7ZDLfQ0qW-HQXt89WU0JVQiNgreeR6on75y4h2Vp4YB1rWicU4tNuU~ZvVeeOIlZ5zTg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Amadeus",
+        "Year": "1984",
+        "Ad Cat": "PG",
+        "Duration": "2h 40m",
+        "Rating": "8.4",
+        "Cast": [
+            "F. Murray Abraham",
+            "Tom Hulce",
+            "Elizabeth Berridge"
+        ],
+        "Directors": [
+            "Milos Forman"
+        ],
+        "Writers": [
+            "Peter Shaffer",
+            "Zdenek Mahler"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Italian",
+            "Latin",
+            "German",
+            "French"
+        ],
+        "Image Location": "images/Amadeus/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2535496985/1434659607842-pgv4ql-1564471972600.mp4?Expires=1714338311&Signature=D~ZP~2PUdp04E4e4Ch2Fu-A~3gWaslZG43ueMD8a0vcA806EmB~3xQ~5-HFYqSj5IzNHJNwI4xPhU~dtIzRcArq2Pu9qrLIC-ARPwO3RKMVI0L3xM6EVptsVRLpdlyt0gzjpF3h7pqUXAVhNL1ieEtqcVgjcY~q1hQdYpcIZoMvvfRZsnGc9uHNpZlF62z2lAUqeg3QTKtsJCCYjMyxUpl5gyOEfLuHJgIUKfu8MrgvVIHmEmDZBjfvv1SJraHTu0dtGmb9du0~pG32Aez4~TyHfOGxov31rniKKKC1v5atMvbiUgmzIaWZYVlUbvXuQMT5bedR-Hshaw1gV-VmmVw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Inglourious Basterds",
+        "Year": "2009",
+        "Ad Cat": "A",
+        "Duration": "2h 33m",
+        "Rating": "8.4",
+        "Cast": [
+            "Brad Pitt",
+            "Diane Kruger",
+            "Eli Roth"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino"
+        ],
+        "Storyline": "In German-occupied France, young Jewish refugee Shosanna Dreyfus witnesses the slaughter of her family by Colonel Hans Landa. Narrowly escaping with her life, she plots her revenge several years later when German war hero Fredrick Zoller takes a rapid interest in her and arranges an illustrious movie premiere at the theater she now runs. With the promise of every major Nazi officer in attendance, the event catches the attention of the \"Basterds\", a group of Jewish-American guerrilla soldiers led by the ruthless Lt. Aldo Raine. As the relentless executioners advance and the conspiring young girl's plans are set in motion, their paths will cross for a fateful evening that will shake the very annals of history. \u2014The Massie Twins",
+        "Genre": [
+            "Adventure",
+            "Drama",
+            "War"
+        ],
+        "Languages": [
+            "English",
+            "German",
+            "French",
+            "Italian"
+        ],
+        "Image Location": "images/Inglourious_Basterds/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3738173977/1434659607842-pgv4ql-1616202372085.mp4?Expires=1714338216&Signature=hwwpg1XrS0ylYxZ0Yrz3YD~oDj7hMTKzDQW6Daz9lHCzyP9a2aSSUfzLuKsfo5Ha-7Dwp6PaqrJeN5~AamYadsrcGfyvDuDL-XUh~EOeXOJaRupaN5SCRPcAWK8Gr5G22g5F5a2pcO8zqYhiIdDiuyTPS6wJXMzySCRb1w5oot2dMDhTt42aZyy7FkLuXtDLj9m-zDzArewJW0ybb3Z3XUCw-i3gF9h0vhHSQCPxziXcwDHY6IiGpaqZV2FIvPHLfFyhngppeLNNIomJXmhtB8oWkc9t8sZFIvcnlfhtbPEKYG3hOcMK~GubMVEpvYa2sg6jdClhFAUg67VHYawRyA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Apocalypse Now",
+        "Year": "1979",
+        "Ad Cat": "R",
+        "Duration": "2h 27m",
+        "Rating": "8.4",
+        "Cast": [
+            "Martin Sheen",
+            "Marlon Brando",
+            "Robert Duvall"
+        ],
+        "Directors": [
+            "Francis Ford Coppola"
+        ],
+        "Writers": [
+            "John Milius",
+            "Francis Ford Coppola",
+            "Michael Herr"
+        ],
+        "Storyline": "It is the height of the war in Vietnam, and U.S. Army Captain Willard is sent by Colonel Lucas and a General to carry out a mission that, officially, 'does not exist - nor will it ever exist'. The mission: To seek out a mysterious Green Beret Colonel, Walter Kurtz, whose army has crossed the border into Cambodia and is conducting hit-and-run missions against the Viet Cong and NVA. The army believes Kurtz has gone completely insane and Willard's job is to eliminate him. Willard, sent up the Nung River on a U.S. Navy patrol boat, discovers that his target is one of the most decorated officers in the U.S. Army. His crew meets up with surfer-type Lt-Colonel Kilgore, head of a U.S Army helicopter cavalry group which eliminates a Viet Cong outpost to provide an entry point into the Nung River. After some hair-raising encounters, in which some of his crew are killed, Willard, Lance and Chef reach Colonel Kurtz's outpost, beyond the Do Lung Bridge. Now, after becoming prisoners of Kurtz, will Willard & the others be able to fulfill their mission? \u2014Derek O'Cain",
+        "Genre": [
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "Languages": [
+            "English",
+            "French",
+            "Vietnamese"
+        ],
+        "Image Location": "images/Apocalypse_Now/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3543773721/1434659607842-pgv4ql-1564496837882.mp4?Expires=1714337996&Signature=PodUmP0SwSOSSINedvlySkogb41wP2PqZEfZEcqeMCUOzuI0dEP0UDuiTSsaoAjNyCeDIEzvaInb~NtwuwPYHJb-3PFjV2wTDnHbAqE6SQkn9IfS1IZGuvYBqbsaQAPBxY~yB7tDdsj7yLxIHUKSCADIfaClgHcB9dpgTU6giLRJNDah7S98Mt2qSbjxTuFR30x9eBoVpejwHn6uk2KlfoSAHLACGS52N4o0w0ial0UWOuuvHjlgXlFSw34B5~731cLydPtLAVBtVDdGdC7AJaMxpuzRc7RWgou-aauSTbVhGlLQezQSOUyCSaBt4hCE3HhfPEVWDVpgt33v8~f2GA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Avengers: Endgame",
+        "Year": "2019",
+        "Ad Cat": "UA",
+        "Duration": "3h 1m",
+        "Rating": "8.4",
+        "Cast": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo"
+        ],
+        "Directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "Writers": [
+            "Christopher Markus",
+            "Stephen McFeely",
+            "Stan Lee"
+        ],
+        "Storyline": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face...",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English",
+            "Japanese",
+            "Xhosa",
+            "German"
+        ],
+        "Image Location": "images/Avengers_Endgame/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2163260441/1434659607842-pgv4ql-1556354704370.mp4?Expires=1714337924&Signature=qlhabF0Ccj8L6DGkn0lk7M0vP6uOJteKbgKywgJ5RZhQKx7oFh97uZCmSQ55E0b~H8pC5RjVp7xH6gSoCa2BEdoqwImqjvGiJpIT6Sx-jE2T69dtzUbMaZMU0rQOWZY~h7L3HUro5uGk-SmA1YB24wy6~M1ceZXY-5~BkTUE2yzPzDbu4s3fFcVko1mTg0I9WnaiPfH~RB~DuKZimogWV7Gcdy0Xh3MORvgpRfQaANsQrd7n0SAbovA4LTeLVyfxJWcPqU1AWyolvMmUP7wLW~yVr0p14QbRlDEdJ0dpdnb8-55K1fjCrddUJ~oi7DgeVQDdJb9s6lNkd3c7SbXGIA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Dark Knight Rises",
+        "Year": "2012",
+        "Ad Cat": "UA",
+        "Duration": "2h 44m",
+        "Rating": "8.4",
+        "Cast": [
+            "Christian Bale",
+            "Tom Hardy",
+            "Anne Hathaway"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Jonathan Nolan",
+            "Christopher Nolan",
+            "David S. Goyer"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Arabic"
+        ],
+        "Image Location": "images/The_Dark_Knight_Rises/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi144884505/1434659607842-pgv4ql-1632113142638.mp4?Expires=1714338382&Signature=t42HgVcSf2e1Oz5jJBtjFOC~wNYvFGyBJ9G2t4kAl2ySiUjZttjXNquRXdHZXyALwnf~JePJxcyOpsIjm-8MQWiOKGoXsCnU12oav5KJlC7OoJ1-Md8zqlZyAcQlwQe123NrQC995LOMfNw2U1WhXxbEQh7TfDteVsbBjesITG1ISRNSRyPsgpbAKmqFDwm1f0S7Q5Up1SP2i3NSvlfJ9L~njHZsuGywWlhWHNsUpGswwqFswSTFPVrvnIaWqAnaS9bo2oC8s1FXP44V4tBRItOyLQ5WvqJ-j7mJJu4KCcDh7GwQnKUmzjGV0YHfyKemFLgsxqXhI03U6e5DplBliw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Alien 2",
+        "Year": "1986",
+        "Ad Cat": "U",
+        "Duration": "2h 17m",
+        "Rating": "8.4",
+        "Cast": [
+            "Sigourney Weaver",
+            "Michael Biehn",
+            "Carrie Henn"
+        ],
+        "Directors": [
+            "James Cameron"
+        ],
+        "Writers": [
+            "James Cameron",
+            "David Giler",
+            "Walter Hill"
+        ],
+        "Storyline": "57 years after Ellen Ripley had a close encounter with the reptilian alien creature from the first movie, she is called back, this time, to help a group of highly trained colonial marines fight off against the sinister extraterrestrials. But this time, the aliens have taken over a space colony on the moon LV-426. When the colonial marines are called upon to search the deserted space colony, they later find out that they are up against more than what they bargained for. Using specially modified machine guns and enough firepower, it's either fight or die as the space marines battle against the aliens. As the Marines do their best to defend themselves, Ripley must attempt to protect a young girl who is the sole survivor of the nearly wiped out space colony. \u2014blazesnakes9",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "Languages": [
+            "English",
+            "Spanish"
+        ],
+        "Image Location": "images/Alien_2/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi368744473/1434659607842-pgv4ql-1564125888284.mp4?Expires=1714338037&Signature=PiEaMg8XC6oHjhAotpvpTJ2iNTh8JFmwhGP2rBtI7NLIje54WSk8q-eKdNgk1evIyyTXscFNJEZaTL6h6BVRyWRyY2y~dunwPvwZkWjRARwx8n-ZaZo1hi-S6uf7vBC6dfY~L5BalreK8-KzF-VlVNnkWN4UzQoMCc0faISAPyO327fFhVhZBaW~0nheXuVCBgs4z8JB~NcjCuxlTRMCPr8qaacOAHp4TSnSBbKCBnz~nVxpYA7ifQVN9-z0tCQff96R4KpDEgxpyj7xhO0pL5O8G8C4sZlb0Eo0TIRnQ5t91c6ObMpf1TIcCCaxcJpLXZYHgI7X0g~-CXgpN2mkng__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Shining",
+        "Year": "1980",
+        "Ad Cat": "A",
+        "Duration": "2h 26m",
+        "Rating": "8.4",
+        "Cast": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stephen King",
+            "Stanley Kubrick",
+            "Diane Johnson"
+        ],
+        "Storyline": "After landing a job as an off-season caretaker, Jack Torrance, an aspiring author and recovering alcoholic, drags his wife Wendy and gifted son Danny to snow-covered Colorado's secluded Overlook Hotel. But writer's block prevents Jack from pursuing a new writing career. Everything has its time, however. First, the manager must give Jack a grand tour. Then, Mr Hallorann, the facility's ageing chef, chats with Danny about rare psychic gifts. The mysterious employee also warns the boy about the cavernous hotel's abandoned rooms. Room 237, especially, is off-limits. That's all very well, but Jack is gradually losing his mind. After all, strange occurrences and blood-chilling visions have trapped the family in a silent gargantuan prison hammered by endless snowstorms. And now, incessant voices inside Jack's head demand sacrifice. However, is Jack capable of murder? \u2014Nick Riganas",
+        "Genre": [
+            "Drama",
+            "Horror"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/The_Shining/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2689121305/1434659607842-pgv4ql-1565975357540.mp4?Expires=1714338441&Signature=S4pGoAFNTAUvN6JXUwX1lAhqgaPQpnYF4si1PPE9siVVYVlUAWLjhZXQNuS7HUUkgeHDfgp0wOjltinbH11yNYVVyfKM4uCB6PkW--rI4So5d3ywWRJ-yxd45O-EkU38xDi4SERz547N--RGrWhneASacbswfGkIN-~gGHWEDKKz0CMWLj~84NfOitTCOEc938FSuFCSL6xFug-wXzYgVxXSRPXBsFfCjbwzukJ69pmaamI~J8~tj88i6K2vJunBpsUK4TKdPS1xd0f~dR3D40G38-MudZjwls5kBO1wRICswf1FFmK8cIAHhcfoBK2ak5W28y6dCZaBCHOw~d06gg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Memento",
+        "Year": "2000",
+        "Ad Cat": "UA",
+        "Duration": "1h 53m",
+        "Rating": "8.4",
+        "Cast": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Christopher Nolan",
+            "Jonathan Nolan"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Memento/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3220356889/1434659607842-pgv4ql-1570813812356.mp4?Expires=1714338467&Signature=OdpZ~hrqBogmUijrOqd7rR9266Jqs3SoJ3C1il8IHRVg-Zz5wAg4jgAOcxN9pjXylnjAgxq3~vRa0ldPhq6jj6tdvjqr1NL70yJcr~ZMqhbgt7wJEoXwId5YeNx2oUmiT62L-E3QrBGTftrdR913uRcq8bGNxtweiBzyfJIC8TjRq9zx-xYOxKLUjiiDZ8BMg4ZaiAVlpzqatWDml4JyAY3uRZqm5kHfBD4bGpp4NIgJkcYU9ZdDZ08bwRtogn8aDxHSUMvcfDtpqec3AcItcmT-Frp~wcP8OLnbanBFtiOHXukg9UiHdRpQDgSf~4Zxy45JkGrru53oS4brxl~V-g__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Idi I Smotri",
+        "Year": "1985",
+        "Ad Cat": "A",
+        "Duration": "2h 22m",
+        "Rating": "8.4",
+        "Cast": [
+            "Aleksey Kravchenko",
+            "Olga Mironova",
+            "Liubomiras Laucevicius"
+        ],
+        "Directors": [
+            "Elem Klimov"
+        ],
+        "Writers": [
+            "Ales Adamovich",
+            "Elem Klimov"
+        ],
+        "Storyline": "The feature film directed by Elem Klimov, shot in the genre of military drama. The action takes place on the territory of Belarus in 1943. In the center of the story is a Belarusian boy, who witnesses the horrors of the Nazi punitive action, turning from a cheerful teenager into a gray-haired old man for two days. \u2014Peter-Patrick76 (peter-patrick@mail.com)",
+        "Genre": [
+            "Drama",
+            "Thriller",
+            "War"
+        ],
+        "Languages": [
+            "Belarusian",
+            "Russian",
+            "German"
+        ],
+        "Image Location": "images/Idi_I_Smotri/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi129958169/1434659607842-pgv4ql-1564134907107.mp4?Expires=1714338513&Signature=JyVb8X0RlsR1yqDpj1mlSp2qmFf8c5zPECDNIZGBp-VdfmYf7TbGx2H3o1lGKNVd4du3DofFf1Zm-dYVhJswnJy19YvWA~oqvm~NZcraF-8vDF-owfFMbmSvVHGN-YLmeSYEQ7~WBi2lCeljtPZeNP2D3bvF8jKwpXdngNge14WKVV7ktjz5qAxdZ0Bo7RCDYyqs5QoqN7J-GiLkIuDDiLj9OwM~WRhZIJ~VR2ykmL7jLLTsLS8PGZSSqn7IJ5hkZ38yvrsBjxiYPTNuXsOQnfSfwz16gJwSXkx9mxuJ8tFgRGtKwIs~FSG02XfMDNpwTP4tnY16tImc9M6brfolkw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Avengers: Infinity War",
+        "Year": "2018",
+        "Ad Cat": "UA",
+        "Duration": "2h 29m",
+        "Rating": "8.4",
+        "Cast": [
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "Directors": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "Writers": [
+            "Christopher Markus",
+            "Stephen McFeely",
+            "Stan Lee"
+        ],
+        "Storyline": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment, the fate of Earth and existence has never been more uncertain. \u2014Marvel Studios",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Avengers_Infinity_War/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi528070681/1434659607842-pgv4ql-1523121356094.mp4?Expires=1714338540&Signature=Aoa93kz7Y79DPMbfX5Fjv0cMQeSK504lbpRScz0R4ehuCDOLAtxKsN9lTSI170npsnONcLjloAl7H3ZseJjZ1ep~HZCJDSmSf8A8fKHJEQRIpY4aoCX3aiqhPsp8drgaEvcPrRUYHRqd5QaoKQqSvw3KBUnjHDnUHHfE4ZcK9FB4vmBrERcsbs2nf660aWFiqYe4r3WUkD5FVw3B5vHxkZ6fXlcSansLHqvvmzmAUylb9tuiRgQib5KMS-rGJAVUsmGXis6QRXzNJojVRhtgwqzGy5jdZ~YPC-gJ0CPnVo~M5FyF2QA-LWhIHYR1XPzhphi9n~4btoeS1yXzB9oiDw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Raiders of the Lost Ark",
+        "Year": "1981",
+        "Ad Cat": "A",
+        "Duration": "1h 55m",
+        "Rating": "8.4",
+        "Cast": [
+            "Harrison Ford",
+            "Karen Allen",
+            "Paul Freeman"
+        ],
+        "Directors": [
+            "Steven Spielberg"
+        ],
+        "Writers": [
+            "Lawrence Kasdan",
+            "George Lucas",
+            "Philip Kaufman"
+        ],
+        "Storyline": "The year is 1936. An archeology professor named Indiana Jones is venturing in the jungles of South America searching for a golden statue. Unfortunately, he sets off a deadly trap but miraculously escapes. Then, Jones hears from a museum curator named Marcus Brody about a biblical artifact called The Ark of the Covenant, which can hold the key to human existence. Jones has to venture to vast places such as Nepal and Egypt to find this artifact. However, he will have to fight his enemy Rene Belloq and a band of Nazis in order to reach it. \u2014John Wiggins",
+        "Genre": [
+            "Action",
+            "Adventure"
+        ],
+        "Languages": [
+            "English",
+            "German",
+            "Spanish",
+            "Nepali",
+            "Hebrew",
+            "Arabic"
+        ],
+        "Image Location": "images/Raiders_of_the_Lost_Ark/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3747396377/1434659607842-pgv4ql-1536964032506.mp4?Expires=1714338566&Signature=fs5VsTcN4-1UJYKT3i3bdNSoMxiaJ~dS1rjExUnydec3nvj-Mq54Q-ezP10vcrxC3XIVan8s9XUNcyVISycjLbhwJq1lp1fSKlRg64ra~-64nTPxdLfiJCZbvTQ3pL~ezYuNMjz2FOceBLLZZBkpx1Kj8zFC34SQhjVjuvx6U-WX1KtqFZBAynemwa3xuSJcBx8T0FR0-4jLkHmWfRRHLQgG634Z7CgSdPndm8eMCPq3JCrpMnR60xFcJ34kASnsXYIoy5hlCnFmuvc2of3lCf-80IziSIv5hwpAdozju48n76SwFrYJKOtU482F4y9QGGI3lYQQC9PCLBVkLxEnEA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Spider-Man: Into the Spider-Verse",
+        "Year": "2018",
+        "Ad Cat": "U",
+        "Duration": "1h 57m",
+        "Rating": "8.4",
+        "Cast": [
+            "Shameik Moore",
+            "Jake Johnson",
+            "Hailee Steinfeld"
+        ],
+        "Directors": [
+            "Bob Persichetti",
+            "Peter Ramsey",
+            "Rodney Rothman"
+        ],
+        "Writers": [
+            "Phil Lord",
+            "Rodney Rothman"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Spanish"
+        ],
+        "Image Location": "images/SpiderMan_Into_the_SpiderVerse/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1070119449/1434659607842-pgv4ql-1544484723208.mp4?Expires=1714338108&Signature=mNGPPNe4iWaLhsdHGLXAO4SgpkNlvky5cbovTeN7sLcaR5bHyAKa-JHR4-qDZi6PJ5AG7sb~usY-vUAuxjcn2sHsFCTlNuwgO2~sV2a5axMp78Z-pFjNQPb61nFbK6pvsJq1coLbb5b5~NYvWz42-8rFblU94WEzapcYtiRVD3ZOpLkXr-7FIneBn5nN8xypjCXH3tQZQSG~2MXHG7lPH9lzZFwPAoS1RTpDo5VIC1dWBY9qClMhfsisBNIZjj3tTYGfH8iGwNjI2CJonhq3qVTq73Cd0aGul-47PKtAtj3bEeChGoahtQnBcJWjR9rM~UWb90pZShEyzg-UUm9aBA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Kimi No Na Wa.",
+        "Year": "2016",
+        "Ad Cat": "U",
+        "Duration": "1h 46m",
+        "Rating": "8.4",
+        "Cast": [
+            "Ryunosuke Kamiki",
+            "Mone Kamishiraishi",
+            "Ryo Narita"
+        ],
+        "Directors": [
+            "Makoto Shinkai"
+        ],
+        "Writers": [
+            "Makoto Shinkai",
+            "Clark Cheng"
+        ],
+        "Storyline": "Mitsuha is the daughter of the mayor of a small mountain town. She's a straightforward high school girl who lives with her sister and her grandmother and has no qualms about letting it be known that she's uninterested in Shinto rituals or helping her father's electoral campaign. Instead she dreams of leaving the boring town and trying her luck in Tokyo. Taki is a high school boy in Tokyo who works part-time in an Italian restaurant and aspires to become an architect or an artist. Every night he has a strange dream where he becomes...a high school girl in a small mountain town. \u2014Happy_Evil_Dude",
+        "Genre": [
+            "Animation",
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "Languages": [
+            "Japanese"
+        ],
+        "Image Location": "images/Kimi_No_Na_Wa/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1705097753/1434659607842-pgv4ql-1563607790143.mp4?Expires=1714337924&Signature=nxm~dqYhyBYvWWYcCbD~4rtOt06MUTjc8QgGfKb9upZteAtmFCC3-5y3DfjiXx21MhoiYK6KK7B7tLAuaHV6~IMsYTpUiuNku4Aj6uM7aV-SSEfUTG8H8uZW-pxKGJSm7kYT08WT6Z9Oiong0KhuDnRbBKnYIzI50njiYo6LlC~mv7yR0SXA-gdkTqw4y5EAFRAHYD~nHVt1xEySkKPgf91wPj4jx7ohhopfddxJsSQAw9U-v-ROuOfp32YKgiigHc1JxZTi~JU7Pr8mhmHb4Td9TzIPYFNp8HGDizGzhBWQaLvyD0KIrVk4KEZjdeS~OcuHmFVLqalyVIEGDFYtTA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "WALL\u00b7E",
+        "Year": "2008",
+        "Ad Cat": "U",
+        "Duration": "1h 38m",
+        "Rating": "8.4",
+        "Cast": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin"
+        ],
+        "Directors": [
+            "Andrew Stanton"
+        ],
+        "Writers": [
+            "Andrew Stanton",
+            "Pete Docter",
+            "Jim Reardon"
+        ],
+        "Storyline": "In a distant, but not so unrealistic, future where mankind has abandoned earth because it has become covered with trash from products sold by the powerful multi-national Buy N Large corporation, WALL-E, a garbage collecting robot has been left to clean up the mess. Mesmerized with trinkets of Earth's history and show tunes, WALL-E is alone on Earth except for a sprightly pet cockroach. One day, EVE, a sleek (and dangerous) reconnaissance robot, is sent to Earth to find proof that life is once again sustainable. WALL-E falls in love with EVE. WALL-E rescues EVE from a dust storm and shows her a living plant he found amongst the rubble. Consistent with her \"directive\", EVE takes the plant and automatically enters a deactivated state except for a blinking green beacon. WALL-E, doesn't understand what has happened to his new friend, but, true to his love, he protects her from wind, rain, and lightning, even as she is unresponsive. One day a massive ship comes to reclaim EVE, but WALL-E, out of love or loneliness, hitches a ride on the outside of the ship to rescue EVE. The ship arrives back at a large space cruise ship, which is carrying all of the humans who evacuated Earth 700 years earlier. The people of Earth ride around this space resort on hovering chairs which give them a constant feed of TV and video chatting. They drink all of their meals through a straw out of laziness and/or bone loss, and are all so fat that they can barely move. When the auto-pilot computer, acting on hastily-given instructions sent many centuries before, tries to prevent the people of Earth from returning by stealing the plant, WALL-E, EVE, the portly captain, and a band of broken robots stage a mutiny.",
+        "Genre": [
+            "Animation",
+            "Adventure",
+            "Family",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/WALL\u00b7E/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2192703769/1434659607842-pgv4ql-1616203103302.mp4?Expires=1714338416&Signature=TpA6ulzvy02JdOj3nkdxvdMaKKzzzoRDsx0AcQBPUlWH9HvL-DJB8M3nS9Z4ZMW2-i2ji7ySXqGt8pRMaHaAoOaD-TZebAow~QLRVfwwd-QiH8s9N~YQDWU6jxcYQFiOIVOuJS3uom8-VsP07dYGJQVz9EkcApRLsKkSsFlJDPfIjuhEDF6s3BdbTJw7xwMW7Gg9wyA6a9RsejftG9H9cskQpmL6fr5O2wquGNV3Skdk6dUXnlA2bR-lUdTFiX9f9n4vXqCajBe3bOGimfxM2YYOz1b7n6z1fCShlI-RoY0wcxJnVXZTGFmdbZpDwLazKZ39l3ICoBJ~X0bg1sm8dQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Coco",
+        "Year": "2017",
+        "Ad Cat": "U",
+        "Duration": "1h 45m",
+        "Rating": "8.4",
+        "Cast": [
+            "Anthony Gonzalez",
+            "Gael Garc\u00eda Bernal",
+            "Benjamin Bratt"
+        ],
+        "Directors": [
+            "Lee Unkrich",
+            "Adrian Molina"
+        ],
+        "Writers": [
+            "Lee Unkrich",
+            "Jason Katz",
+            "Matthew Aldrich"
+        ],
+        "Storyline": "Despite his family's baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history. \u2014Disney/Pixar",
+        "Genre": [
+            "Animation",
+            "Adventure",
+            "Drama",
+            "Family",
+            "Fantasy",
+            "Music",
+            "Mystery"
+        ],
+        "Languages": [
+            "English",
+            "Spanish"
+        ],
+        "Image Location": "images/Coco/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi4249729305/1434659607842-pgv4ql-1509989696666.mp4?Expires=1714338679&Signature=n02IlXFbBhFpMCR85lZh56XLedQTgk9~560bKvi1aBGPby4YJvM3uUntAgtWaERzyHlkbSU3a3JBiQHYP4Pd4FSmJ7l5~~d1OJHg8xfGIQDwmRS7VtpYaT4ds8QxF6l-oGw0zeAYwj4mtNfkWhWNppRAFKDGEOtGsi8f4T4wuB5VNwN9zdm9Y28YNz-2FkOWZntYODznPKOIMs5FEUz2IVtzmNC4z3NA7tOlFZ2phz~l4QYt~-aJ-HCzPURyWuPsjjrjCh3Y8WCLlh3magssi1V00q4UaV5-KcM0M4hz6-W1ZuImUDakeU2Zh5o4Tq6mqlHauRC6mxGTn1i65vKKsQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "Year": "1964",
+        "Ad Cat": "PG",
+        "Duration": "1h 35m",
+        "Rating": "8.4",
+        "Cast": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "Terry Southern",
+            "Peter George"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Russian"
+        ],
+        "Image Location": "images/Dr_Strangelove_or_How_I_Learned_to_Stop_Worrying_and_Love_the_Bomb/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3726294553/1434659607842-pgv4ql-1593536731678.mp4?Expires=1714338692&Signature=Pv6KujD9gct1CLeRYvZIEiywMZ6wzLpWrI6EaPjNNbo73vvIr~pg2RT6QXImbdlmajZ3B8BUGs1IifrYJc6TktqfcaugHXbHohEQZQ0dDDqqa7kUeJfoMD1DSRoN5kKW2f8nv6XAtvqIIm3YfQxE7MtW9rXwd2Fws04JbnLrlmSQd7GmUYINgi8j17krf0FW2-Tnqz2jrTWnlgXNTkvmwWXolUygRkTHRCuyq3tuLwYvj6e3IY19~roJeChQNGd869KNDX5Cxbd~6PEJZkTf2lY9uPImRy0091B2H4lHqLYpbN2ntk1Lu3F3GsqB-DF5hdO1DSqQT0F4jLOX5SbenA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "3 Idiots",
+        "Year": "2009",
+        "Ad Cat": "UA",
+        "Duration": "2h 50m",
+        "Rating": "8.4",
+        "Cast": [
+            "Aamir Khan",
+            "Madhavan",
+            "Mona Singh"
+        ],
+        "Directors": [
+            "Rajkumar Hirani"
+        ],
+        "Writers": [
+            "Abhijat Joshi",
+            "Rajkumar Hirani",
+            "Vidhu Vinod Chopra"
+        ],
+        "Storyline": "Rancho is an engineering student. His two friends. Farhan and Raju, Rancho sees the world in a different way. Rancho goes somewhere one day. And his friends find him. When Rancho is found, he has become one of a great scientist in the world. \u2014Luv",
+        "Genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "Languages": [
+            "Hindi",
+            "English"
+        ],
+        "Image Location": "images/3_Idiots/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3086596889/1434659607842-pgv4ql-1529667039250.mp4?Expires=1714338725&Signature=C2OpxYVSHZaLsEDHK9fR6gJVtnwZeg2Vq843dJbBvpDgwfjahNzoqmbF19U~YXK6Zm9BYC7e5Op906S8iCQMLZ4v6rMzBtuIAcUEvcv~KuDJeaLfaayKhHTrmu1MhKlkWODv5KtNCZfcb0pkPk2Q~NomQ0wXMoTV9yI9wSpNLPvnY5M7K6Ul1UV~sDmd1gtFp2Q~~AeF4idQ3vWehEaXqAO~qzcViMjcxwR-4ESetn9YlRQilqxVDWT~wR8SQABjLs5PCxZk2~GeJUecrW30oiin28agdVjkTxLTw9PbsTVwigrMkyW12qUGBh65nRoKWhSagnNRxGTa0Tq14lHc2Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Das Leben der Anderen",
+        "Year": "2006",
+        "Ad Cat": "A",
+        "Duration": "2h 17m",
+        "Rating": "8.4",
+        "Cast": [
+            "Ulrich M\u00fche",
+            "Martina Gedeck",
+            "Sebastian Koch"
+        ],
+        "Directors": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "Writers": [
+            "Florian Henckel von Donnersmarck"
+        ],
+        "Storyline": "Gerd Wiesler is an officer with the Stasi, the East German secret police. The film begins in 1984 when Wiesler attends a play written by Georg Dreyman, who is considered by many to be the ultimate example of the loyal citizen. Wiesler has a gut feeling that Dreyman can't be as ideal as he seems, and believes surveillance is called for. The Minister of Culture agrees but only later does Wiesler learn that the Minister sees Dreyman as a rival and lusts after his partner Christa-Maria. The more time he spends listening in on them, the more he comes to care about them. The once rigid Stasi officer begins to intervene in their lives, in a positive way, protecting them whenever possible. Eventually, Wiesler's activities catch up to him and while there is no proof of wrongdoing, he finds himself in menial jobs - until the unbelievable happens. \u2014garykmcd",
+        "Genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Languages": [
+            "German"
+        ],
+        "Image Location": "images/Das_Leben_der_Anderen/",
+        "Trailer Link": null
+    },
+    {
+        "Movie Name": "Capharna\u00fcm",
+        "Year": "2018",
+        "Ad Cat": "A",
+        "Duration": "2h 6m",
+        "Rating": "8.4",
+        "Cast": [
+            "Zain Al Rafeea",
+            "Yordanos Shiferaw",
+            "Boluwatife Treasure Bankole"
+        ],
+        "Directors": [
+            "Nadine Labaki"
+        ],
+        "Writers": [
+            "Nadine Labaki",
+            "Jihad Hojeily",
+            "Michelle Keserwany"
+        ],
+        "Storyline": "Caperna\u00fcm (\"Chaos\") tells the story of Zain (Zain al-Rafeea), a Lebanese boy who sues his parents for the \"crime\" of giving him life. The film follows Zain as he journeys from gutsy, streetwise child to hardened 12-year-old \"adult\" fleeing his negligent parents, surviving through his wits on the streets, where he meets Ethiopian migrant worker Rahil, who provides him with shelter and food, as Zain takes care of her baby son Yonas in return. Zain later gets jailed for committing a violent crime, and finally seeks justice in a courtroom.",
+        "Genre": [
+            "Drama"
+        ],
+        "Languages": [
+            "Arabic",
+            "Amharic"
+        ],
+        "Image Location": "images/Capharna\u00fcm/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1667873305/1434659607842-pgv4ql-1550250715192.mp4?Expires=1714338445&Signature=uFmQVrqWIPQZ9aWMl3gBcnw9D12QmfalmfPCH8vmHYqTmTBONtgPibXpcSxWUJpophPRMxhBQk43wPZxUOA2tDMLPgfKux9ba~IMdsHr7~qQUzHZlbdpWMgMVXrFWx79bC3idwaGqvuVkxu5NfmK6PhWElc24CvOxwmHYDU-YPT4QWKoceSMiDhKoEruZSOfoTiJSfAfaV4HkeOtNcdZOXc6HaxZ6HsdlX6fB788YauAvrj7iI-HT3TVgBbYgaOIivbtrlmaBhBbLQU385PtcpdOLKFVPlT08akXyGw0ZBXGALMZwTO9eH9fD6uZGZF04CnRu6Zwwix4jIR5L3wzow__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Das Boot",
+        "Year": "1981",
+        "Ad Cat": null,
+        "Duration": "2h 29m",
+        "Rating": "8.4",
+        "Cast": [
+            "J\u00fcrgen Prochnow",
+            "Herbert Gr\u00f6nemeyer",
+            "Klaus Wennemann"
+        ],
+        "Directors": [
+            "Wolfgang Petersen"
+        ],
+        "Writers": [
+            "Wolfgang Petersen",
+            "Lothar G. Buchheim"
+        ],
+        "Storyline": "It is 1942 and the German submarine fleet is heavily engaged in the so-called \"Battle of the Atlantic\" to harass and destroy British shipping. With better escorts of the destroyer class, however, German U-boats have begun to take heavy losses. \"Das Boot\" is the story of the crew of one such U-Boat, with the film examining how these submariners maintained their professionalism as soldiers and attempted to accomplish impossible missions, all the while attempting to understand and obey the ideology of the government under which they served. \u2014Anthony Hughes <husnock31@hotmail.com>",
+        "Genre": [
+            "Drama",
+            "War"
+        ],
+        "Languages": [
+            "German"
+        ],
+        "Image Location": "images/Das_Boot/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi4153458201/1434659607842-pgv4ql-1584464604857.mp4?Expires=1714338672&Signature=c4JVvVHMUW1Gp5GCwtrsvhQhdR6Ej70AegqQBjNUS77k1Et02iZDtBbmYZVMFLiENiFFVYRQxuH5Bfu-b3p3XvlMYam398Vm7DbwMMTKaLbhlLegUPDkUlO4xs8Mo-u66igM-k177DvyBRLCZUQgz02CwOR26~dQFhtRJWOLS5yfmw5Igb1dLbquneDvg6KpAcdFWvHwrUv~SY5DwDQxKlUVyvt1g6f~SWp9OqZm2WTiYmbut4p3xxyBRg5LRe1Etu6YEfWgk3FkmLYMOjO1~0gSaMkhwImV60ed8bGc9suV1mYdkvF7KmuZ5jfo6S-I44mIQLtIEFbq5QQ9vKobnQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Sunset Blvd.",
+        "Year": "1950",
+        "Ad Cat": "Approved",
+        "Duration": "1h 50m",
+        "Rating": "8.4",
+        "Cast": [
+            "William Holden",
+            "Gloria Swanson",
+            "Erich von Stroheim"
+        ],
+        "Directors": [
+            "Billy Wilder"
+        ],
+        "Writers": [
+            "Charles Brackett",
+            "Billy Wilder",
+            "D.M. Marshman Jr."
+        ],
+        "Storyline": "Desperate for cash, screenwriter Joe Gillis has a chance meeting with a faded silent film star. Norma Desmond lives in her crumbling Sunset Boulevard mansion with only her butler to keep her company. She has become a sad demented recluse convinced that the outside world is clamoring for her dramatic return. Enticing him with the prospect of script work she puts him up in her mansion and he becomes ever more involved and entangled in her life. \u2014B.A. Black",
+        "Genre": [
+            "Drama",
+            "Film-Noir"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Sunset_Blvd/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2388460569/1434659607842-pgv4ql-1616203164916.mp4?Expires=1714338801&Signature=o4Cc6iUUJb~yL5U-jkfRYLyJ9t35RNaBL5sQUXXXHT5bwhoaE9xTFvvoy1qtJYE6NGfc~lVjYTWucafeBtOxpCY7UcU~38TeWs0PniI73VhExGhGinlSw1LRxUhevWARZt8bUX0Ts~ePHrAzOY3ERDIzKDiA0tlzdocZrBGCviG~bHjt4maT2WuVOYhJJDegiU0ge448fx5VJ~tajz4JDehW1yOZmax3g0Y6MiiWnaDj-bMwSMemX0FtsZl-f9FWDDH6RKjsIb-4Li97HbRa8LpNJRS3cJyve7EMxTiCrZN3VODsWatjfkADYeA2n1Z0BuOJPCJicI4JBVAu4VOU0Q__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Paths of Glory",
+        "Year": "1957",
+        "Ad Cat": "A",
+        "Duration": "1h 28m",
+        "Rating": "8.4",
+        "Cast": [
+            "Kirk Douglas",
+            "Ralph Meeker",
+            "Adolphe Menjou"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "Calder Willingham",
+            "Jim Thompson"
+        ],
+        "Storyline": "The futility and irony of the war in the trenches in WWI is shown as a unit commander in the French army must deal with the mutiny of his men and a glory-seeking general after part of his force falls back under fire in an impossible attack. \u2014Keith Loh <loh@sfu.ca>",
+        "Genre": [
+            "Drama",
+            "War"
+        ],
+        "Languages": [
+            "English",
+            "German",
+            "Latin"
+        ],
+        "Image Location": "images/Paths_of_Glory/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi763627801/1434659607842-pgv4ql-1564143477293.mp4?Expires=1714338450&Signature=pCw48McQI2mCD3Pde-bZnmfuOnaymWwj8LiI8z9Nh6NU4qX1YdpqyJjDlEyj92z480~RkI8LcrJW6eTdwOiTxPV7-v4KWVFEaixwzURuF3gIjyUQtbwovxQCmwICKsO29KfsNFxxpUKov0L6UcPZH0QyCMnpSYQp0pEo5EdUThziPq8Y350kz1VglxC5Gb4~ZM1SL3TlMQJbaJAXMust4Bo~3Trj-Oj7ObOmwt5KuBgKqWoxXhv7pvAN69bl03zN3bsLkZWKS~yearADVdgl6ORJvSRYNU2G-XA8g9saPlWXwqzmumLX3ZVE1BdYfuIHXbwiL-IuctTa0Wol8d4hgQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Witness for the Prosecution",
+        "Year": "1957",
+        "Ad Cat": "U",
+        "Duration": "1h 56m",
+        "Rating": "8.4",
+        "Cast": [
+            "Tyrone Power",
+            "Marlene Dietrich",
+            "Charles Laughton"
+        ],
+        "Directors": [
+            "Billy Wilder"
+        ],
+        "Writers": [
+            "Agatha Christie",
+            "Billy Wilder",
+            "Harry Kurnitz"
+        ],
+        "Storyline": "Ailing barrister Sir Wilfrid Robarts is thrust back into the courtroom in what becomes one of the most unusual and eventful murder cases of the lawyer's career when he finds himself defending Leonard Vole, a man being tried for the murder of a wealthy woman. With Robarts choosing to represent him, the two find themselves up against Leonard's cold-hearted wife, Christine - who, in a surprising turn of events, chooses to appear in court against her husband. \u2014Kyle Perez",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Languages": [
+            "English",
+            "German"
+        ],
+        "Image Location": "images/Witness_for_the_Prosecution/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi421183001/1434659607842-pgv4ql-1593515498091.mp4?Expires=1714338450&Signature=ZLaU0kG2Hc002a9dWQG1KOTjpP~STDo-IJlI~QLr7C6jWGE6-YuaOzQTZSpNBvs4KZAO1MsueF0KAf1Ip1k2EFVY~JAMfaME9h~UrmdI5b7H~h6T-PkipO0TrhKUhfMRwCtdtlBhmgRhiXHhcA2kuqydJwi5KIBFF43mstg1jySnqkotEJcw2SNJdB3GTmB1afYnFLEQE2Hlo5aychMFRK~OtT4eFHncBLbOuYdFVP6LEHizUFHNx0fadwDPIQHQhm11w9KwarKYcZZxDWhQhN3KB75mjuqtEOoT0x-ZFzKWCbeDmda5jMnsuj6R4HC0CVFkCiBRXWZXm-7uA0S6hg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Tengoku to Jigoku",
+        "Year": "1963",
+        "Ad Cat": "Not Rated",
+        "Duration": "2h 23m",
+        "Rating": "8.4",
+        "Cast": [
+            "Toshir\u00f4 Mifune",
+            "Yutaka Sada",
+            "Tatsuya Nakadai"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Hideo Oguni",
+            "Ry\u00fbz\u00f4 Kikushima",
+            "Eijir\u00f4 Hisaita"
+        ],
+        "Storyline": "A wealthy businessman is told his son has been kidnapped and he will have to pay a very large sum for him to be returned safely. It is then discovered that his son is safe at home: the kidnapper took his chauffeur's son by accident. The kidnapper says this makes no difference: pay up or the child dies. This leaves him with a moral dilemma, as he really needs the money to conclude a very important business deal. \u2014grantss",
+        "Genre": [
+            "Crime",
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "Languages": [
+            "Japanese"
+        ],
+        "Image Location": "images/Tengoku_to_Jigoku/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2921184793/1434659607842-pgv4ql-1593716777927.mp4?Expires=1714338838&Signature=agI5jl5K5I-RFQfXkthAKPFvXrjAnWwQldlx~RB05n5tEYOxvuQcTfB7XuvayEeguT6eVVQZrG3QdfRlFT-BRzBI74R4DzvPwYCyICrOfylGmgMjYHQGaIqFr99yEtmLH-Hb2RgjLEHPvezuXbV-AWcEBZRN8DHFebArcbX6KaoYAi8yVyp0Hk80TuszBI1iweeJgbRT8z0cAkfYVrk-SSv9LuUiL~uF39Q977dmyNvfnBklhqy17Gb1RoWFPqOrfXkjJE9qCOI6F4rAlgG5fnnnYT8mcc~lP03qpUUm-Ht~YgyU3RQVjEmzobPr1I9xQmk4gmugG1vtptP-yXiasA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "The Great Dictator",
+        "Year": "1940",
+        "Ad Cat": "G",
+        "Duration": "2h 5m",
+        "Rating": "8.4",
+        "Cast": [
+            "Charles Chaplin",
+            "Paulette Goddard",
+            "Jack Oakie"
+        ],
+        "Directors": [
+            "Charles Chaplin"
+        ],
+        "Writers": [
+            "Charles Chaplin"
+        ],
+        "Storyline": "20 years after the end of WWI, in which the nation of Tomainia was on the losing side, Adenoid Hynkel has risen to power as the ruthless dictator of the country. He believes in a pure Aryan state and the decimation of the Jews. This situation is unknown to a simple Jewish Tomainian barber who has been hospitalized since a WWI battle. Upon his release the barber, who had been suffering from memory loss about the war, is shown the new persecuted life of the Jews by many living in the Jewish ghetto, including a washerwoman named Hannah with whom he begins a relationship. The barber is ultimately spared such persecution by Commander Schultz, whom he saved in that WWI battle. The lives of all Jews in Tomainia are eventually spared with a policy shift by Hynkel himself, who is doing so for ulterior motives. But those motives include a desire for world domination, starting with the invasion of neighboring Osterlich, which may be threatened by Benzino Napaloni, the dictator of neighboring Bacteria. Ultimately Schultz, who has turned traitor against Hynkel's regime, and the barber may be able to join forces to take control of the situation, using Schultz's inside knowledge of the regime's workings and the barber's uncanny resemblance to one of those in power.",
+        "Genre": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "Languages": [
+            "English",
+            "Esperanto",
+            "Latin"
+        ],
+        "Image Location": "images/The_Great_Dictator/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3851590681/1434659607842-pgv4ql-1563753017363.mp4?Expires=1714338834&Signature=N5EKE1cdYWDUkQJRULkyrzMYvaBaFZJLmljlnYffPBPWh6PojU9bf74qsRhe~3KgRJTdG851eK41CA6iqMSMAr~GImExrO8UlUQE88ocDRT1XKN6fP2NBy3KPmWos15EBWN-0WHoiSEPx~5MyYQgb9ZfizTGRH7YtRk-z6OI7pANWV6kSvo9JOeyaYq-YxZs4Pu6YdeNvYFIcPYDSF9rylZm-bwyJsdkwuA-rEOHQdC06vDxvtHlSs1M46UUs7l38aRKhQvCY5T-N5tN2uOaMC1qwmgxgOYt0DPgh2~no1wdrePJ35Xifpg9tOZqN7D5rLVu-xNc6QqaHsH0OFdUFA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Oppenheimer",
+        "Year": "2023",
+        "Ad Cat": "R",
+        "Duration": "3h",
+        "Rating": "8.3",
+        "Cast": [
+            "Cillian Murphy",
+            "Emily Blunt",
+            "Matt Damon"
+        ],
+        "Directors": [
+            "Christopher Nolan"
+        ],
+        "Writers": [
+            "Christopher Nolan",
+            "Kai Bird",
+            "Martin Sherwin"
+        ],
+        "Storyline": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bomb, thus helping end World War 2. We see his life from university days all the way to post-WW2, where his fame saw him embroiled in political machinations. \u2014grantss",
+        "Genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "Languages": [
+            "English",
+            "German",
+            "Italian"
+        ],
+        "Image Location": "images/Oppenheimer/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2053751833/1434659607842-pgv4ql-1683541736696.mp4?Expires=1714338864&Signature=qeF7vceQfq6zVmayBAoRZWssH4fngrOYcHJlssgFTTRwLHoAMj5EDu0GL6Uc-5QKZTF~v~XzmYBgGoZ40RtJlJ1fmSIvWdHjEWpLINTV5M7~lbTjkCgcnkhgIJX3-PJWM0J2uZkx9yw4S6Yrsj6qOFsIkCpBLxoaEj6EODtftUm-5fo9~uQNvYE~NWpgs4LLtEI6GUSCL6ByQ-~E979ZyiqXC~2sF047gr2AC0klAhI1y~-teYlCA1xJkg5fjRHDsSTtwIR6zFhw79eL5m4uC8rw5A6Xi~JbCrmT1~i~3DkfGpnuCVtkimbR7A66c77NKTdX6oiqw7qFPJZrMETxtQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Good Will Hunting",
+        "Year": "1997",
+        "Ad Cat": "U",
+        "Duration": "2h 6m",
+        "Rating": "8.3",
+        "Cast": [
+            "Robin Williams",
+            "Matt Damon",
+            "Ben Affleck"
+        ],
+        "Directors": [
+            "Gus Van Sant"
+        ],
+        "Writers": [
+            "Matt Damon",
+            "Ben Affleck"
+        ],
+        "Storyline": "A touching tale of a wayward young man who struggles to find his identity, living in a world where he can solve any problem, except the one brewing deep within himself, until one day he meets his soul mate who opens his mind and his heart. \u2014Dima & Danielle",
+        "Genre": [
+            "Drama",
+            "Romance"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Good_Will_Hunting/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1281211929/1434659607842-pgv4ql-1597770213160.mp4?Expires=1714338878&Signature=m6iOgcJj4eCbUGtLMQWjMFk6Xu8muXqijPA0k7eRPM8ouSL9ibpH-S3H7GFFWDZoiJzOnL8yzYu~u1GSixDepMUPKXuOjB5MM7r2yH8A8yqv9I4x2F9ztXHO5PqK5TQfN7gKffwA9cJPT1i2-QZZ-0Crkfh5b4ULwOqLD0W5Zt5wuey9SdVDjlK1mZkGm5FGyVFr~n6azUyHo6tphf8N7b5atDM8i2AqB65pPEwYrF88il1KCzGUorOqVMoR6eBKwQ6DElXj7NISZAtHH2~OKHS4D0whwRh676oM0le8hMCti9CEHZzBLPNHBM415ISKo85FHoYchbWfjuNWYhm2VQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "American Beauty",
+        "Year": "1999",
+        "Ad Cat": "UA",
+        "Duration": "2h 2m",
+        "Rating": "8.3",
+        "Cast": [
+            "Kevin Spacey",
+            "Annette Bening",
+            "Thora Birch"
+        ],
+        "Directors": [
+            "Sam Mendes"
+        ],
+        "Writers": [
+            "Alan Ball"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/American_Beauty/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi788506137/1434659607842-pgv4ql-1616202357192.mp4?Expires=1714338397&Signature=RrrgbaMugAnddzJyCZoHDUk5W~u0D-fxQCUGhno21v9wPVz9IvYqPd7wKTgv5g6W4i3~06BYjstdHPF-gWegqUrf~dhapxRT5I18DaNQo5fx7LMWKKqWKIesliDWipjzeRR8h78Hjh61YPH1vDDAHXEPkJqvFVWxiypxUCzHTrfTpYNxaR4H92LuNqYLT9~d5p96FG4m~WAO0H3dO-0Glf~Sn6yKgvfme9nG36Q4ZVRoKU4O7M44GUB4SifQqDS0k42cEXUwKyGgKgfVDglOWMMw1ngSSdS6uUPbzo~OZ7CsNtzfTBWAsrq37Iju7I7W~rQdXdKykeFFbirShhXmyw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Oldeuboi",
+        "Year": "2003",
+        "Ad Cat": "A",
+        "Duration": "1h 41m",
+        "Rating": "8.3",
+        "Cast": [
+            "Choi Min-sik",
+            "Yoo Ji-tae",
+            "Kang Hye-jeong"
+        ],
+        "Directors": [
+            "Park Chan-wook"
+        ],
+        "Writers": [
+            "Garon Tsuchiya",
+            "Nobuaki Minegishi",
+            "Park Chan-wook"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "Korean"
+        ],
+        "Image Location": "images/Oldeuboi/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3245261849/1434659607842-pgv4ql-1683900511045.mp4?Expires=1714338237&Signature=V74~TQUhF9oh-85iWXQNGckcLVQD9G9VLr1ctQclipXKYvMXV-cCTio~6-7v2k81smmNoAAWC2pbxTpaYUOyAq1Ldqhj4GUDW4tyJTmNRQ6zxqnB2jBwVFfJZw3vmB73adX1LxhSJVKL56DChrv787zUR8qr1PauNUDqZLnU8JhflfHhuZn6xsX3745zosf-E84MDtDYMzPNk1AC7BMiYqr6VMS8eZoGNnhmwTObZcl~n9g2VWhm1-CsFqpDelWTbRdBMH9pC8TcMbc7Dh6S~h1LVjHDanAAFILYUl7wP5A4cnzzWDiBZLeGn6~PAbt~ADcAzajOxkH-TJioiJudKQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Requiem for a Dream",
+        "Year": "2000",
+        "Ad Cat": "A",
+        "Duration": "1h 42m",
+        "Rating": "8.3",
+        "Cast": [
+            "Ellen Burstyn",
+            "Jared Leto",
+            "Jennifer Connelly"
+        ],
+        "Directors": [
+            "Darren Aronofsky"
+        ],
+        "Writers": [
+            "Hubert Selby Jr.",
+            "Darren Aronofsky"
+        ],
+        "Storyline": "Sara Goldfarb (Ellen Burstyn) is a retired widow, living in a small apartment. She spends most of her time watching TV, especially a particular self-help show. She has delusions of rising above her current dull existence by being a guest on that show. Her son, Harry (Jared Leto) is a junkie but along with his friend Tyrone (Marlon Wayans) has visions of making it big by becoming a drug dealer. Harry's girlfriend Marion (Jennifer Connelly) could be fashion designer or artist but is swept along in Harry's drug-centric world. Meanwhile Sara has developed an addiction of her own. She desperately wants to lose weight and so goes on a crash course involving popping pills, pills which turn out to be very addictive and harmful to her mental state. \u2014grantss",
+        "Genre": [
+            "Drama"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Requiem_for_a_Dream/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2156069145/1434659607842-pgv4ql-1563544118857.mp4?Expires=1714338492&Signature=DUM4Wvr68th-LbJJt3psq-1KsWofTdRYiyNKmqXWDayWHOjnDbDbbWrEfMoWL0VEj4q7sbyC5m827FDtJpCAslfjg~po4vKqp4MeGoDdv2XfkPZWtKObs6qF1dxqO9NlttNde8QYjvYOVor1e13CxPE3IXvOd7Iwnl9cgE5Iz89-FxuVlx8UpVZedk-R9fwk25cTPWaaknqLGmbu6mK81ck3m5TpjiWHpXALM9c-Sr5RmylroJ9MVyAgyZ3d0JCCTXHNCgntpWPKLaBwb7ga-eFsVThTA~4oQDLo9sDVRF3TGREBTGC1ZvgiZ77QGHGF4ec86M-baS7YqUT4v20Ajg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Eternal Sunshine of the Spotless Mind",
+        "Year": "2004",
+        "Ad Cat": "UA",
+        "Duration": "1h 48m",
+        "Rating": "8.3",
+        "Cast": [
+            "Jim Carrey",
+            "Kate Winslet",
+            "Tom Wilkinson"
+        ],
+        "Directors": [
+            "Michel Gondry"
+        ],
+        "Writers": [
+            "Charlie Kaufman",
+            "Michel Gondry",
+            "Pierre Bismuth"
+        ],
+        "Storyline": "Much to his surprise, timid Joel Barish is shocked to discover that the love of his life, sparky Clementine, has had him erased from her memory. As a result, hurt and angry, Joel wants to pay her back in the same coin, going as far as to undergo a painless but intricate medical procedure to do the same. However, poor Joel is utterly unaware that darkness is an essential part of the light. And as the once-cherished recollections of Clementine gradually fade away, giving way to a soulless black void, something unexpected happens. Now Joel has second thoughts, toying with the idea of stopping the irreversible process. Who said ignorance is bliss? \u2014Nick Riganas",
+        "Genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Eternal_Sunshine_of_the_Spotless_Mind/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2292515097/1434659607842-pgv4ql-1564107806804.mp4?Expires=1714338996&Signature=nctLnzQUDAGxOBdAqKUR2QN3hu88XbGe274pldGo0asEhWRTbxioYos59VUG-9b6mMux-8wKSfzo-7HXEUWZ~mLVI-a6YVhK-POXtA3~477Oy4m8EKkegTgtUuW0p0aVx2dFR~c0QQbrXRaDcCD-pDJ7D3A0AqhdCmsx3-GGDrsEDLGT3wBs5fbrKHBZhvCpoAe6mTHc1g~o3BCdqbpWblFyDGS4myxl8~gWMN7Lo0XhDW2g2S1ahBoQxem~NOywOsmFfu5cN0wJQfZB07Xq82GqDsjhtzA85HNQwGdZ4ASH3kZpUFVidkd1jAniD04THzNcir-6N~A3tfIHQ2Y7pQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "2001: A Space Odyssey",
+        "Year": "1968",
+        "Ad Cat": "U",
+        "Duration": "2h 29m",
+        "Rating": "8.3",
+        "Cast": [
+            "Keir Dullea",
+            "Gary Lockwood",
+            "William Sylvester"
+        ],
+        "Directors": [
+            "Stanley Kubrick"
+        ],
+        "Writers": [
+            "Stanley Kubrick",
+            "Arthur C. Clarke"
+        ],
+        "Storyline": "\"2001\" is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon's surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far. Now mankind, assisted by artificial intelligence (such as HAL), must dare to encounter the monolith placers. If successful, the next step in evolution--whatever it is--will be achieved. \u2014Larry Cousins",
+        "Genre": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Languages": [
+            "English",
+            "Russian",
+            "French"
+        ],
+        "Image Location": "images/2001_A_Space_Odyssey/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2674767897/1434659607842-pgv4ql-1524260381054.mp4?Expires=1714339021&Signature=p6~HX5woQh9VxQUqbhCng6sYKe9eCAKrWGb5bj7BEvNhYIzxvjyjJ4df9423JF7cCWel2L1olvhU0zljhauVpZTX7iZSaeHyjm4Dp30ysH~Z4vUaTMjv1o71gNlR8MCt2rnGqRnLmFhrvznUxTb7l534HONcBeXLNhT44OD4HALdjlzjSZtQjQdjRo3GjeyH679~pYGMUajPFatYV6ptWlRB3ww9YIIHrb3FA5zG2sBcZF~k-KlLQQOmm~75erEIsy57nxXxaCvlu0qihTptrczcW1ux7dB1bZMtYaGTQ5jyQ-yHLSQEgagkyX5JYgNmLodCauHGu6HJeFX6N7f2YQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Reservoir Dogs",
+        "Year": "1992",
+        "Ad Cat": "15+",
+        "Duration": "1h 39m",
+        "Rating": "8.3",
+        "Cast": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Michael Madsen"
+        ],
+        "Directors": [
+            "Quentin Tarantino"
+        ],
+        "Writers": [
+            "Quentin Tarantino",
+            "Roger Avary"
+        ],
+        "Storyline": "Six thugs, who are strangers to each other, are hired by a crime boss, Joe Cabot, to carry out a diamond robbery. Right at the outset, they are given false names with the intention that they won't get too close and will concentrate on the job instead. They are completely sure that the robbery is going to be a success. But, when the police show up right at the time and the site of the robbery, panic spreads amongst the group members, and two of them are killed in the subsequent shootout, along with a few policemen and civilians. When the remaining people assemble at the premeditated rendezvous point (a warehouse), they begin to suspect that one of them is an undercover cop. \u2014Soumitra",
+        "Genre": [
+            "Crime",
+            "Thriller"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Reservoir_Dogs/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3028484377/1434659607842-pgv4ql-1563527574320.mp4?Expires=1714338305&Signature=soSuNWMtldqxXfiUGWquurE2f1GiTGqac1sYunXKNJsLs-V4hmAilg7IV4B8uj8AJ8DgkYoeErzAOTvKeJiHXcGvPp4WGqdFW6xkoXF7eO~--DhqisSfz2aLj81BxZ2NpfVOhJw-8xPkzOdKHuhfuOOQ85E1QrLfyP3GSb5g-nttiG1LQ1VLeSKKjDP9bwYIlRnuir0Ap5iZs7KbkvqkDtGTlxH7vqC96OTrHfS7G-ATB32h6QW-M9LiNdB4Iyi6N-ElTMMs2JPgwn6dk565qEnuxxFAcQmQdblW5uEXGSD-0DBAs3J40BeHXNcl8ykA4NYCQBufG7Nk6JNLJ9bhvw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Braveheart",
+        "Year": "1995",
+        "Ad Cat": "A",
+        "Duration": "2h 58m",
+        "Rating": "8.3",
+        "Cast": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan"
+        ],
+        "Directors": [
+            "Mel Gibson"
+        ],
+        "Writers": [
+            "Randall Wallace"
+        ],
+        "Storyline": "William Wallace is a Scottish rebel who leads an uprising against the cruel English ruler Edward the Longshanks, who wishes to inherit the crown of Scotland for himself. When he was a young boy, William Wallace's father and brother, along with many others, lost their lives trying to free Scotland. Once he loses another of his loved ones, William Wallace begins his long quest to make Scotland free once and for all, along with the assistance of Robert the Bruce. \u2014Anonymous",
+        "Genre": [
+            "Biography",
+            "Drama",
+            "War"
+        ],
+        "Languages": [
+            "English",
+            "French",
+            "Latin",
+            "Gaelic",
+            "Italian"
+        ],
+        "Image Location": "images/Braveheart/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2874063641/1434659607842-pgv4ql-1537469491566.mp4?Expires=1714339073&Signature=AgHNE6~LEu0-2oDsN1oJenuvADMSin2Vg432FRYP2TG4NkJshCiPfyJ14k0mfjCu59BjBlMyuW4xjo0M7izm9HDJhNjwI6YR6pAPDk6pp8wEuVwz3GG89UNLVKrSjZn4PKGvqBj3gvSUo8zC5uQk9wfQ1B1wETD50pkujiBdsI32fxUBBoJxeWn7F7BAzAxmSklLkuus9sRim2IY7EB-BQTnKdX3qxJj7YLEYXwOMjrrcMAkMVACrblYvKzDte4e166jmgv4TqEwmWpVrfrqI3ctw3gnspGqxuNLADlECyr2IKibEzfveY1zzpXGAKcybQQove9O2gW3SzpWPp5qvw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Once Upon a Time in America",
+        "Year": "1984",
+        "Ad Cat": "A",
+        "Duration": "3h 49m",
+        "Rating": "8.3",
+        "Cast": [
+            "Robert De Niro",
+            "James Woods",
+            "Elizabeth McGovern"
+        ],
+        "Directors": [
+            "Sergio Leone"
+        ],
+        "Writers": [
+            "Harry Grey",
+            "Leonardo Benvenuti",
+            "Piero De Bernardi"
+        ],
+        "Storyline": "With the vivid memory of his long-gone childhood friends Max, Patsy, and Cockeye etched in his mind, his ferociously loyal partners-in-crime during their rise to prominence in New York's Prohibition-era Lower East Side, the defeated, penniless, and guilt-ridden former gangster David \"Noodles\" Aaronson returns to Manhattan. Not knowing what to expect on his mission to shed light on his opaque past, grizzled Noodles reunites with his only living friend Fat Moe after 35 haunted years of self-exile. However, the relentless, piercing sound of culpability stands in the way of finding closure, as the inscrutable content of a well-worn leather suitcase further complicates matters. And now, against the backdrop of a torn conscience, the sad, bittersweet recollections of more than 50 years of love, death, and everything in-between become inextricably intertwined, leading to even more puzzling questions. But what are a man's options when he is left with nothing? \u2014Nick Riganas",
+        "Genre": [
+            "Crime",
+            "Drama"
+        ],
+        "Languages": [
+            "English",
+            "Italian",
+            "French",
+            "Yiddish",
+            "Hebrew"
+        ],
+        "Image Location": "images/Once_Upon_a_Time_in_America/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2777395225/1434659607842-pgv4ql-1564167155574.mp4?Expires=1714339098&Signature=H509Uwar00YcrJoR4W066pWavGd3I~oH5MFRXJoxm~4mfb6o5O5-pqeDxfJrbuhb4-Y7Wwz~mzNaD-mSFK9-pEbR0Z~7pOiWnO3GcA0AxXq6U7zyFhyUgYAyU0ajUCdhMAqFiaGPZhTjwV7aV4ebvV4B7uglu9GVqwj8o9cMEYExGgsGVtP54KI58Hk0KuRR-OEo3y0qhVgCkhiJcLoF61Dujy8DCGysIh8Eeh~GjuDaOafImOs~YKbEmu0Ruy1UCu0V6YQcIYrna6GvtEyvxWj3nD1EhCXW3hMU-50uWjBWptmlKn4PZBwe5LWwjcunVY0bdHfQj30rYvskUOp1hA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Singin' in the Rain",
+        "Year": "1952",
+        "Ad Cat": "G",
+        "Duration": "1h 43m",
+        "Rating": "8.3",
+        "Cast": [
+            "Gene Kelly",
+            "Donald O'Connor",
+            "Debbie Reynolds"
+        ],
+        "Directors": [
+            "Stanley Donen",
+            "Gene Kelly"
+        ],
+        "Writers": [
+            "Betty Comden",
+            "Adolph Green"
+        ],
+        "Storyline": "1927 Hollywood. Monumental Pictures' biggest stars, glamorous on-screen couple Lina Lamont and Don Lockwood, are also an off-screen couple if the trade papers and gossip columns are to be believed. Both perpetuate the public perception if only to please their adoring fans and bring people into the movie theaters. In reality, Don barely tolerates her, while Lina, despite thinking Don beneath her, simplemindedly believes what she sees on screen in order to bolster her own stardom and sense of self-importance. R.F. Simpson, Monumental's head, dismisses what he thinks is a flash in the pan: talking pictures. It isn't until The Jazz Singer (1927) becomes a bona fide hit which results in all the movie theaters installing sound equipment that R.F. knows Monumental, most specifically in the form of Don and Lina, have to jump on the talking picture bandwagon, despite no one at the studio knowing anything about the technology. Musician Cosmo Brown, Don's best friend, gets hired as Monumental's ideas man and musical director. And by this time, Don has secretly started dating Kathy Selden, a chorus girl who is trying to make it big in pictures herself. Don and Kathy's relationship is despite their less than friendly initial meeting. Cosmo and Kathy help Don, who had worked his way up through the movie ranks to stardom, try make the leap to talking picture stardom, with Kathy following along the way. However, they have to overcome the technological issues. But the bigger problem is Lina, who will do anything to ensure she also makes the successful leap into talking pictures, despite her own inabilities and at anyone and everyone else's expense if they get in her way, especially Kathy as Don's off screen girlfriend and possibly his new talking picture leading lady.",
+        "Genre": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Singin_in_the_Rain/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2086470681/1434659607842-pgv4ql-1616202994632.mp4?Expires=1714339124&Signature=Wht0yLGDWwv4L-Tt7Q-bRq0uxmLOi93zqJSnp7lDaUbf8HgtlKAYlXDdqNBjpb1Kmf54VkL8Q-Tx28ZzWX8lFAalSJw8k37dZt7Hvc~-KQLWYGhr9jakJs5GhbTf3wbF6ijfSGCdsv5HoWe1pg4ofOmiY7aym1o3x0KWNMcOQ5dAk0UxamljLB09jq2uHa9Ove1J753wEQxaWY4k1eNwus0m7oKkempQIhR3B-giyle2868sIa-EGtBMT40aPWCBnVTLbc~hBQJQ3MECvQNLJKclbz06FLI6G3OXkrWzff0RPwD~Zwc3oN1mTcr4kdgQb9OnYLXRk2nJ~iiSEu5HzQ__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Jagten",
+        "Year": "2012",
+        "Ad Cat": "7",
+        "Duration": "1h 55m",
+        "Rating": "8.3",
+        "Cast": [
+            "Mads Mikkelsen",
+            "Thomas Bo Larsen",
+            "Annika Wedderkopp"
+        ],
+        "Directors": [
+            "Thomas Vinterberg"
+        ],
+        "Writers": [
+            "Thomas Vinterberg",
+            "Tobias Lindholm"
+        ],
+        "Storyline": "Lucas is a Kindergarten teacher who takes great care of his students. Unfortunately for him, young Klara has a run-away imagination and concocts a lie about her teacher. Before Lucas is even able to understand the consequences, he has become the outcast of the town. The hunt is on to prove his innocence before it's taken from him for good. \u2014napierslogs",
+        "Genre": [
+            "Drama"
+        ],
+        "Languages": [
+            "Danish",
+            "English",
+            "Polish"
+        ],
+        "Image Location": "images/Jagten/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2244519449/1434659607842-pgv4ql-1616202358043.mp4?Expires=1714339149&Signature=fjeCPNY4EYlo-Q5pKlEzK4hIEvxKXq95SPqlx0~SzBJLeZKgiQUk7csQBMMrO3vEPYGF7NMB8Dx3fN4prU1oGR8-FHAPsQLcbuQBytORz~XuLs1SFVuEOPrNeuXMB78iDYUBFsGy2kErEAMMOrqIiIZ6MSqFjdjIUjeOAHptiaQqCEvGfEgRj56qgpKNpinVhGACZx5rZq08PXpOWoO3RJOX5kNs9C6ObGndMJI-gol8OhYbKUU2KTGs2jV4vcH0TEezktDO25og9CVSX9lM1kVvwc0To9FbOOikBPq5JPcRKcwNDE-95fsIrerRKnJDGnVngIpmEFn86o2dXKuAtw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Toy Story",
+        "Year": "1995",
+        "Ad Cat": "U",
+        "Duration": "1h 21m",
+        "Rating": "8.3",
+        "Cast": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles"
+        ],
+        "Directors": [
+            "John Lasseter"
+        ],
+        "Writers": [
+            "John Lasseter",
+            "Pete Docter",
+            "Andrew Stanton"
+        ],
+        "Storyline": "A little boy named Andy loves to be in his room, playing with his toys, especially his doll named \"Woody\". But, what do the toys do when Andy is not with them, they come to life. Woody believes that his life (as a toy) is good. However, he must worry about Andy's family moving, and what Woody does not know is about Andy's birthday party. Woody does not realize that Andy's mother gave him an action figure known as Buzz Lightyear, who does not believe that he is a toy, and quickly becomes Andy's new favorite toy. Woody, who is now consumed with jealousy, tries to get rid of Buzz. Then, both Woody and Buzz are now lost. They must find a way to get back to Andy before he moves without them, but they will have to pass through a ruthless toy killer, Sid Phillips. \u2014John Wiggins",
+        "Genre": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Languages": [
+            "English"
+        ],
+        "Image Location": "images/Toy_Story/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2052129305/MV5BNjQzMDM2MzQyNV5BMTFeQW1wNF5BbWU3MDI1MDk3OTY@.mp4?Expires=1714339175&Signature=B~iY9NHzvSBnxaVV8JI8cFB0-42VnFZst3jO3Vm~Zu5vSc~eqZzmUkY4p~CYRZqzId~Oc7YYwI6hKEOg-V5uiAcm22hPptKXURzrY2Tj~jxdkHWvp~BeV471ySskhMemBgrN1IWtqiPNgKGL5IE4qJmPF7mH43cVnwKMAu0CqW-2HCctT4kl5n7wM0R2T~5IanwVddJjdQ-Gcqlp84h1epaHkBr6Rr-ibGVBqdVkEVq3zV-V2swH~BcVRqAl-xRPshAG6Bdezl8cNZ9vnU43YXgVCOi88D9uhMjfDnWf7uF-nuYfXvzPhKHXG3wcop3kcdocbRyNfbODoY6IxDeXRA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Star Wars: Episode VI - Return of the Jedi",
+        "Year": "1983",
+        "Ad Cat": "U",
+        "Duration": "2h 11m",
+        "Rating": "8.3",
+        "Cast": [
+            "Mark Hamill",
+            "Harrison Ford",
+            "Carrie Fisher"
+        ],
+        "Directors": [
+            "Richard Marquand"
+        ],
+        "Writers": [
+            "Lawrence Kasdan",
+            "George Lucas"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "English",
+            "Kikuyu",
+            "Tagalog",
+            "Kalmyk-Oirat",
+            "Quechua",
+            "Polish"
+        ],
+        "Image Location": "images/Star_Wars_Episode_VI_Return_of_the_Jedi/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi1702936345/1434659607842-pgv4ql-1569604579809.mp4?Expires=1714338603&Signature=AaDx0nQ2Y03J3XTsqCoef6gun6DD8OHxicIRGe-YLso6Nf~hVBVPG2kdo6JLsLC7cvPbawqlmjsKQPrmzYiD73yRraWazaMkHyhKQNRphgdLl4lmWKLbSHdiQenKwf9wXpJaR9kwGQuiMa2ak6U6qPzGiHW5If7IZddVtF34dQAE8BgXYbfpU5p4v3xfrNc6MMQtX1JZQ6NpiQWikvmIy5zMqNcQZnjDrofT0Bjj3DsHJxpgE7fUpOuv0wc2TwnjsZl9URbT9vdhs1tJ58pN1tk7arYCXtbwSDQExRAFsPfDn6~-FX-xrvduMxZ2NAPNOlOGDrxUflmAz84OlPcclA__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Mononoke-hime",
+        "Year": "1997",
+        "Ad Cat": "U",
+        "Duration": "2h 14m",
+        "Rating": "8.3",
+        "Cast": [
+            "Y\u00f4ji Matsuda",
+            "Yuriko Ishida",
+            "Y\u00fbko Tanaka"
+        ],
+        "Directors": [
+            "Hayao Miyazaki"
+        ],
+        "Writers": [
+            "Hayao Miyazaki",
+            "Neil Gaiman"
+        ],
+        "Storyline": null,
+        "Genre": [],
+        "Languages": [
+            "Japanese"
+        ],
+        "Image Location": "images/Mononokehime/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3351821849/1434659607842-pgv4ql-1590086883299.mp4?Expires=1714339250&Signature=iCZKQicCQFHf0Z-sQ6lLsfMjYldm-~HjsteNSVE2biVv~n4R2JxdMTziK-lYUrvJFSJDNIzz-wCygiSbAgKqYjvcsvrxM3ItbeSxYrqkrHnEs3CsoCOSht8H19T-q9qyIC98HpoI58HT~oGrybvVqMaNgJfOpWefxTfMbqRH4eyS-Zz~zaVF7c6AqumsjWnMJjO2GkPihwrbTNQ3LOLMZkh85n7EwrCWJ2KgJs1zfkPSaw~KHR7sd2GR0-zfdKZKq36xSu1tLUrTc2RdR5nc6kn3BBo5Wfbbb75JNNU6dzkc3kdr2IP1ceYNy8Tn7sXHx~7Y1O8pEIw1eEdhYcQKmw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Lawrence of Arabia",
+        "Year": "1962",
+        "Ad Cat": "U",
+        "Duration": "3h 38m",
+        "Rating": "8.3",
+        "Cast": [
+            "Peter O'Toole",
+            "Alec Guinness",
+            "Anthony Quinn"
+        ],
+        "Directors": [
+            "David Lean"
+        ],
+        "Writers": [
+            "Robert Bolt",
+            "Michael Wilson"
+        ],
+        "Storyline": "Due to his knowledge of the native Bedouin tribes, British Lieutenant T.E. Lawrence is sent to Arabia to find Prince Faisal and serve as a liaison between the Arabs and the British in their fight against the Turks. With the aid of native Sherif Ali, Lawrence rebels against the orders of his superior officer and strikes out on a daring camel journey across the harsh desert to attack a well-guarded Turkish port. \u2014Jwelch5742",
+        "Genre": [
+            "Adventure",
+            "Biography",
+            "Drama",
+            "War"
+        ],
+        "Languages": [
+            "English",
+            "Arabic",
+            "Turkish"
+        ],
+        "Image Location": "images/Lawrence_of_Arabia/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi2095825433/1434659607842-pgv4ql-1654651837947.mp4?Expires=1714339293&Signature=glo3dtEop~jnzlZyyoqDGEldliPjXOGORsBZ1t9smOQp4ZMLTGlOY-B-C-ZPm9GZDPzM0xnrgYL-rJL7zRJkcwX4LS34L9TbkpHOrgMbQv7ntlVKCxwkRoeaO6uELWO7f02MLNsjuFjRajn9deBKROfagYkwhxqrnQqLcKUUjCShqchoEW5kDIpbu1WlW-PWnjWmU32vmfwiWqmHuPLIFu0nYRnB0OVH8vgokAqWxV5VzZwoS3WZTHIeI~DCY4-x-s4rGqxVL9lSCaOGUHcOZNuHIMc8ycCeVmhFPclX19BT0KDv7R8ggenYgbPH4LUqSn9Cky1wXGCjborCqYD7qg__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Toy Story 3",
+        "Year": "2010",
+        "Ad Cat": "U",
+        "Duration": "1h 43m",
+        "Rating": "8.3",
+        "Cast": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack"
+        ],
+        "Directors": [
+            "Lee Unkrich"
+        ],
+        "Writers": [
+            "John Lasseter",
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
+        "Storyline": "Woody, Buzz and the whole gang are back. As their owner Andy prepares to depart for college, his loyal toys find themselves in daycare where untamed tots with their sticky little fingers do not play nice. So, it's all for one and one for all as they join Barbie's counterpart Ken, a thespian hedgehog named Mr. Pricklepants and a pink, strawberry-scented teddy bear called Lots-o'-Huggin' Bear to plan their great escape. \u2014Walt Disney Studios",
+        "Genre": [
+            "Animation",
+            "Adventure",
+            "Comedy",
+            "Family",
+            "Fantasy"
+        ],
+        "Languages": [
+            "English",
+            "Spanish"
+        ],
+        "Image Location": "images/Toy_Story_3/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi3676898329/1434659607842-pgv4ql-1616203302774.mp4?Expires=1714339318&Signature=hWuH8P68Kc6aSGhGF8T9Sed8Qy3z8yZAo65ZD3SkUdmN-8kPsLbF4aRlvrlP-pHdwsa06pEExGydZDL7K6xk761LaLIfJ9cyl3d6O4FYITmc20W5JFJC53flv3Kl-6jb9aFV7z8r36iOD4D3YuRTHJz6G-TJNjQGEbQG-zx~edHxl91e3WHSG2dBG7MK25iEVMK3qrXGXMlSMq1Q9y0Wpn4EhiBEfg~l4jSHVeLAeaMoMYnO39f9hMfu-ffd3cgwhGowp5kdQ5q9~0i2O5lQct~WuZjsPnRK-8XjTwfjuta5yQTfeFP8QZN4iXRKzKeU8xB7b52d1v8AWl3G0B5UNw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    },
+    {
+        "Movie Name": "Ikiru",
+        "Year": "1952",
+        "Ad Cat": "U",
+        "Duration": "2h 23m",
+        "Rating": "8.3",
+        "Cast": [
+            "Takashi Shimura",
+            "Nobuo Kaneko",
+            "Shin'ichi Himori"
+        ],
+        "Directors": [
+            "Akira Kurosawa"
+        ],
+        "Writers": [
+            "Akira Kurosawa",
+            "Shinobu Hashimoto",
+            "Hideo Oguni"
+        ],
+        "Storyline": "Kanji Watanabe is a civil servant. He has worked in the same department for 30 years. His life is boring and monotonous, though he once used to have passion and drive. Then one day he discovers that he has stomach cancer and less than a year to live. After the initial depression he sets about living for the first time in over 20 years. Then he realises that his limited time left is not just for living life to the fullest, but to leave something meaningful behind. \u2014grantss",
+        "Genre": [
+            "Drama"
+        ],
+        "Languages": [
+            "Japanese",
+            "Latin",
+            "English",
+            "French"
+        ],
+        "Image Location": "images/Ikiru/",
+        "Trailer Link": "https://imdb-video.media-imdb.com/vi626900505/1434659607842-pgv4ql-1597765349270.mp4?Expires=1714339343&Signature=rt2UGSmdSzcKRqY97rmH9rsPvp6NB2RoiXRWuRszug1-f50PpD0MgCXOtVWoJGgCILW187kZIbzPgUicym85-0yEogEvBpSCVQGP~fknU4t5yJlNi2gwiW3FIH7G3mlhcDgpaRMxpJ8DNCgRmpLCAE8WztSwjskgHL0PWS7ZTXNJNVYqmWy7BRaIxOLRtBVuxosKTsFH~e1AArTQDtC2p9furgGe6J25KVx-2ZN8C8ZEtxz2clNLU4fpB7-sjIMOIYTQIus3udwd-OfLttaD~KbvP1N~vU1WsLH6hnpFYw-FVYOz6g3mRAkNhjymwpechqcuBoQk7ghM-eQcOSXikw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA"
+    }
+]
